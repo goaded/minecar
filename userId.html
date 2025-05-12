@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Extract User ID</title>
+  <script>
+    function extractUserId() {
+      const list = window.location.href.split("/");
+      let userID = null;
+
+      // Find the userId in the URL
+      for (let i = 0; i < list.length; i++) {
+        if (list[i].includes("u-")) {
+          userID = list[i];
+          alert(`User ID found: ${userID}`);
+          break; // Stop searching once we find the userId
+        }
+      }
+    }
+  </script>
+</head>
+<body onload="extractUserId()">
+</body>
+</html>
