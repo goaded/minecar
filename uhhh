@@ -397,7 +397,7 @@ document.addEventListener("load", function () {document.body.clientHeight != doc
 Windows online emulator</a>
 </h2>
 <p>
-<script>function webwindows10(){window.open("https://www.onworks.net/runos/create-os.html?os=win10_emulator&home=init","_blank");return false;}</script>
+<script>function webwindows10(){document.body.innerHTML=https://www.onworks.net/runos/create-os.html?os=win10_emulator&home=init}</script>
 </p>
 <div style="width:100%;float:left;margin:0 0 10px 0">
 <div style=text-align:left><a style=float:left href="#" title="" onclick="return webwindows10();"><img src="/imagescropped/windows10icon128.jpg_3.webp" loading=lazy border=0 alt="Run free Windows 10 online theme" title="Run free Windows 10 online theme" width=128 height=128 /></a><span style="float:left;margin:10px 0 0 20px;max-width:200px"><p style="margin:0;font-size:22px;font-weight:bold">Windows emulator</p> <p style="margin:0;color:#3a5dc7">The Operative System</p><p style="margin:0;font-size:12px">Distributed by OnWorks</p></span></div>
