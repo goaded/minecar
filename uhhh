@@ -1,0 +1,859 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang=en lang=en>
+<head><link rel=amphtml href="https://www.onworks.net/os-distributions/special-os/windows-10-online-theme?amp=1"><link rel=amporigin href="https://www.onworks.net/os-distributions/special-os/windows-10-online-theme?amp=1">
+<style>html,body,div,span,iframe,h1,h2,p,a,img,ins,strong,dl,dt,dd,ul,li,fieldset,form,label,section{margin:0;padding:0;border:0}ul{list-style:none}.ja-copyright ul{list-style:none;display:inline-table}:focus{outline:none}.clearfix:after{content:".";display:block;clear:both;visibility:hidden;line-height:0;height:0}.clearfix{display:inline-block}html[xmlns] .clearfix{display:block}.clear{clear:both}.no-display{display:none!important}.right{float:right}.wrap{width:100%;clear:both}.main{width:980px;max-width:1300px;margin:0 auto;position:relative}.main .main-inner1{margin-left:15px;margin-right:15px}#ja-main{float:right}#ja-header{}body{background:#fff;color:#000;font-family:sans-serif;line-height:1.5}body#bd{background:#fff;color:#000;font-size:12px}body#bd #ja-wrapper{overflow:hidden}body.fs3 #ja-wrapper{font-size:100%}a{}a:hover,a:active,a:focus{}h1{font-size:180%}h2{font-size:150%}.contentheading,h1,h2{line-height:1.2}h2.contentheading,.contentheading{margin:0;padding:0 0 5px}.contentheading{}.contentheading a,.contentheading a:hover,.contentheading a:active,.contentheading a:focus{}form label{cursor:pointer}input,select,.inputbox{font-size:100%}.inputbox{}.inputbox:hover,.inputbox:focus{}fieldset{border:none;margin:0;padding:5px 0}ul.pagenav{float:left;margin:10px 0}ul.pagenav li{background:none;display:block;float:left;margin:0;overflow:hidden;padding:0}ul.pagenav li a{padding:0 5px}#ja-search{bottom:15px;position:absolute;right:0}#ja-search label{display:none}#ja-search .inputbox{}#ja-search .inputbox:hover,#ja-search .inputbox:focus{}.wrap{}.main{}#ja-wrapper{}#ja-container{position:relative;z-index:5}#ja-container .main{}#ja-container{}.ja-content-main{margin-bottom:20px}#ja-header{position:relative;z-index:10}#ja-header .main{padding:30px 0 15px}#ja-mainnav{line-height:1;position:relative;z-index:11;display:inline-block;vertical-align:top}#ja-poweredby{margin:0 auto}.t3-logo{display:block}.t3-logo,.t3-logo a{width:200px;height:34px}.t3-logo a{display:block;text-indent:-1000em;background-repeat:no-repeat;background-position:center}</style><style>.wrap{clear:both;width:100%}.main{margin:0 auto;position:relative;width:1200px}.main .main-inner1{margin-left:1em;margin-right:1em}#ja-content{width:720px}.ja-mf #ja-content{width:100%!important}.item-page{padding:1.5em}#ja-header{}</style><style>body{font-family:'Open Sans',sans-serif,Arial;line-height:1.6}body#bd{background:#88bad3;color:#333;font-size:13px}body.fs3 #ja-wrapper{font-size:1.2em}a{color:#016114;text-decoration:none}a:hover,a:active,a:focus{color:#333;text-decoration:none}}
+
+p.readmore a:hover,
+p.readmore a:active,
+p.readmore a:focus {background-position:right bottom}.ja-content p,.ja-content h2,.ja-content ul{font-size:16px;margin:1em 0}h1{font-size:2.2em}h2{font-size:1.8em}.contentheading,h1,h2{color:#333;font-family:sans-serif;font-weight:normal}h2.contentheading,.contentheading{font-weight:normal;margin:0 0 1em;padding:0;white-space:nowrap;text-overflow:ellipsis;overflow:hidden}.contentheading{font-size:2.25em}.contentheading a{text-decoration:none}.contentheading a:hover,.contentheading a:active,.contentheading a:focus{}ul li{line-height:160%;margin-bottom:5px;overflow:hidden;padding-left:30px}dt{font-weight:bold}dd{margin-left:15px}img{max-width:100%}input,select,.inputbox{font-family:sans-serif;font-size:1em;padding:3px}input[type="checkbox"]{border:0}.inputbox{background:#fff;border:1px solid #ccc;color:#333}.inputbox:hover,.inputbox:focus{background:#fff}.item-page{background:#fff;border-top:1px solid #e6e6e6;position:relative}.item-page{margin-bottom:1em}#ja-main{float:none}#ja-container .main{padding:0}#ja-content{}#ja-content-main{background:#fff;border-top:1px solid #e6e6e6;margin:1em 1em 0;padding:1.5em}.com_content #ja-content-main{background:none;border-top:0;padding:0}// fix bug overflow hidden on edit article
+#ja-content.column,
+#ja-content .column {overflow:visible}#ja-header{color:#fff;margin-bottom:0}#ja-header .main{padding:0}#ja-header .main-inner1{background:#000}#ja-top{border-left:1px dotted #666;float:right;height:70px;position:absolute;width:auto;z-index:999;right:10px;top:0}#ja-search{border-bottom:1px dotted #666;height:31px;padding:0 1em;position:static}#ja-search .search-btn{display:block;float:left;height:30px;text-indent:-1000em;width:30px}#ja-search:hover .search-btn{}#ja-search form.search{float:left;padding-top:5px;width:155px}#ja-search .inputbox{background:#000;border:1px solid #000;color:#ccc;margin:0;padding:2px 0;text-indent:0;width:100%}#ja-mainnav{}.t3-logo a{border-bottom:0!important;margin-top:1em}.alert.alert-full-bleed{border-radius:0;display:flex;justify-content:center}.bg-primary{background-color:#0067b8!important;color:#fff}.alert{font-size:1rem;line-height:1.5;border:.0625rem solid transparent;border-radius:.125rem;position:relative;display:flex;padding:1rem 1.5rem;background-color:#e6e6e6;color:#fff}section{display:block}*,::after,::before{box-sizing:border-box}@media (min-width:860px){html:not([dir=rtl]) .pl-md-5, html:not([dir=rtl]) .px-md-5 {padding-left:3rem!important}html:not([dir=rtl]) .pr-md-5, html:not([dir=rtl]) .px-md-5 {padding-right:3rem!important}}@media (min-width:1084px){html:not([dir="rtl"]) .card-img-overlay > .card-foreground {margin-left:-100%!important;margin-right:0}}$bannergrande = $bannergrande . ' <source media="(min-width: 540px)" data-srcset="/images/offidocsbanner01-859x540.jpg.webp" srcset="/images/offidocsbanner01-859x540.jpg.webp"> ' . "\n";
+$bannergrande = $bannergrande . ' <img class="blur-up lazypreload card-img w-100 ls-is-cached lazyloaded x-hidden-focus" alt="Icons from the OffiDocs app like Gimp online, Audacity online, LibreOffice online, OpenOffice online, Openshot online and more. " data-srcset="/images/offidocsbanner01-539x400.jpg.webp" data-src="/images/offidocsbanner01-539x400.
+
+
+
+.card-img {width:100%;flex-shrink:0}@media (min-width:1400px){h2{font-size:2.3125rem;margin-bottom:1.25rem}}@media (min-width:1084px){h2{font-size:1.8125rem;margin-bottom:1rem;font-weight:bold}}h2{font-size:1.3rem;margin-bottom:.75rem;color:#0067b8!important}.contentheading a{color:#0067b8!important}@media (min-width:860px){html:not([dir=rtl]) .mr-md-n4, html:not([dir=rtl]) .mx-md-n4 {margin-right:-1.5rem!important}}html:not([dir=rtl]) [class*=link-group-col] {margin-right:-1.5rem}@media (min-width:860px){html:not([dir=rtl]) .mr-md-n4, html:not([dir=rtl]) .mx-md-n4 {margin-right:-1.5rem!important}}@media (min-width:540px){html:not([dir=rtl]) .mr-sm-0, html:not([dir=rtl]) .mx-sm-0 {margin-right:0!important}html:not([dir=rtl]) .link-group-col-sm-2 div {padding-right:1.5rem}}html:not([dir=rtl]) .link-group-col-1 div {padding-right:1.5rem}@media (min-width:1100px){.menux ul>li>ul{width:800px;columns:3;-webkit-columns:3;-moz-columns:3;border-bottom:solid}}@media (max-width:1099px) and (min-width:1000px){.menux ul>li>ul{width:520px;columns:2;-webkit-columns:2;-moz-columns:2;border-bottom:solid}}@media (max-width:1024px){.menux ul>li>ul{columns:1;-webkit-columns:1;-moz-columns:1;border-bottom:solid}}a{color:#0067b8}@media (min-width:768px){.site-footer{padding-bottom:80px}}.site-footer{background:#0d0751;color:#eee;padding:0 0 40px;font-size:15px;line-height:24px;text-align:center;padding-top:30px}@media (min-width:768px){.site-footer .wrap{text-align:left;grid-template-columns:3fr 1fr 2fr}}.site-footer .wrap{display:grid;grid-column-gap:32px;max-width:1158px;margin:0 auto;padding-left:24px;padding-right:24px}@media (min-width:768px){.site-footer .wrap .aboutwpbeginner{max-width:350px;grid-column:span 1;border:none;margin:0;padding:0}}@media (max-width:767px){.site-footer .wrap .aboutwpbeginner{grid-column: 1 / -1}}@media (min-width:768px){.site-footer .wrap .site-links{max-width:200px;border:none;margin:0;padding:0}}@media (max-width:767px){.site-footer .wrap .site-links{grid-column: 1 / -1}}@media (min-width:768px){.site-footer .wrap .our-sites{max-width:200px;border:none;margin:0;padding:0}}@media (max-width:767px){.site-footer .wrap .our-sites{grid-column: 1 / -1}}.aboutwpbeginner{padding-bottom:32px;margin-bottom:32px;border-bottom:1px solid rgba(157,140,129,.2)}.aboutwpbeginner .footer-heading{font-size:16px;font-weight:700;letter-spacing:normal;text-transform:none;margin-bottom:28px}.footer-heading{color:#fff;font-size:16px;font-weight:600;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;line-height:21px;letter-spacing:.08em;margin-bottom:25px;text-transform:uppercase}.site-footer p{margin:0 0 16px;padding:0}.site-footer a{color:#d7edf4;text-decoration:none}@media (min-width:768px){.footer-socials .social-label{display:inline-block;margin:0;vertical-align:middle}}.footer-socials .social-label{display:block;font-size:16px;margin-bottom:24px}@media (min-width:768px){.footer-socials .social-links{display:inline-block;vertical-align:middle}}.footer-socials .social-links{margin-left:-12px}.social-links{display:flex;flex-wrap:wrap;justify-content:space-around}@media (min-width: 768px)
+.footer-socials .social-links a {
+display: inline-flex;
+flex-basis: 0%;
+}.social-links a{float:left;display:flex;flex-basis:25%;justify-content:center;align-items:center;width:60px;height:60px}.footer-socials svg{fill:#fff}.footer-widget ul{display:block;list-style-type:disc;margin-block-start:1em;margin-block-end:1em;margin-inline-start:0;margin-inline-end:0;padding-inline-start:40px}.footer-widget ul li{list-style-type:none;margin-bottom:14px;display:list-item;text-align:-webkit-match-parent}@media (min-width: 768px)
+.site-footer .wrap .our-sites ul {
+-webkit-columns: 2;
+-moz-columns: 2;
+columns: 2;
+}.footer-copyright{color:#757575;font-size:15px;line-height:1.6;padding:40px 0;text-align:center}.footer-copyright .wrap{max-width:1158px;margin:0 auto;padding-left:24px;padding-right:24px}.footer-copyright p{margin-bottom:12px;margin:0 0 16px;padding:0}.site-links ul{margin:0;padding:0}.wrap ul{display:block;list-style-type:disc;margin-block-start:1em;margin-block-end:1em;margin-inline-start:0;margin-inline-end:0;padding-inline-start:1px}.wrap ul li{padding-left:0!important}.menux ul li ul li{padding-left:20px!important}@media screen and (min-width:1025px){.menux ul>li{padding-left:30px!important}}@media screen and (max-width:1024px){.menux .nav{padding-left:20px}}#ja-header .main{width:100%!important}@media (max-width:1024px){#ja-header{height:60px!important}}</style><style media="only screen and (max-width:399px)">#ja-mainnav{float:none}body{-webkit-text-size-adjust:100%;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Roboto","Oxygen","Ubuntu","Cantarell","Fira Sans","Droid Sans","Helvetica Neue",sans-serif;font-weight:normal}#ja-container{position:relative;z-index:5}#ja-container-prev{top:0}body.fs3 #ja-wrapper{font-size:14px!important}.contentheading,h1{font-size:1.5em!important}h2{font-size:1.25em!important}.main{width:100%}#ja-content{float:none;width:100%}.item-page{padding:1em}.contentheading,h1,h2{color:#333;font-family:"AvenirNextCondensed-Bold","Futura-CondensedExtraBold",HelveticaNeue-CondensedBold,"Ubuntu Condensed","Liberation Sans Narrow","Franklin Gothic Demi Cond","Arial Narrow",sans-serif-condensed,Arial,"Trebuchet MS","Lucida Grande",Tahoma,Verdana,sans-serif;font-stretch:condensed;font-weight:normal}#ja-header{height:55px;min-height:55px;max-height:55px;overflow-y:hidden;margin-top:0}#ja-content-main{background:#fff;border-top:1px solid #e6e6e6;margin:0!important;padding:1.5em}#ja-header .main{text-align:center;width:100%;height:55px;min-height:55px}h2.contentheading{font-size:1.5em!important;height:30px;min-height:30px}#ja-header .main-inner1{margin:0;height:55px;min-height:55px;max-height:55px;width:100%}#ja-top{right:0;position:absolute;border-left:1px dotted #666;height:40px;min-height:40px;width:4px;top:0}#ja-search{right:0;position:absolute;bottom:0;min-height:40px;height:40px;width:40px;padding:0;border-bottom:0}#ja-search .search-btn{width:30px;height:30px;margin-top:5px}#ja-search .search-btn:hover{width:30px;height:30px;background-color:#000;margin-top:5px;cursor:pointer}#ja-search form.search{display:none;background:#000;position:absolute;top:35px;right:10px;padding:.5em;width:200px}#ja-search:hover form.search{display:block!important}#ja-search .inputbox{background:#222;border:1px solid #222;color:#ccc;margin:0;padding:4px 0;text-indent:10px;width:100%}#ja-mainnav{clear:both;display:block;margin:0 auto;text-align:left;width:100%;height:55px;max-height:55px;min-height:55px}::-webkit-scrollbar{width:5px}::-webkit-scrollbar-track{background:#f1f1f1}::-webkit-scrollbar-thumb{background:#888}::-webkit-scrollbar-thumb:hover{background:#555}.ja-content p,.ja-content h2,.ja-content ul{font-size:14px}.contentheading,h1{font-size:1.5em!important}.ja-copyright ul{list-style:none!important;display:inline-table!important;width:100%!important}.ja-copyright ul li{padding-top:5px}</style><style media="only screen and (min-width:400px) and (max-width: 799px)">.main{width:100%}h2{font-size:1.7em!important}#ja-content{width:720px}#ja-header{}#ja-top{height:40px;border-left:1px dotted #666}#ja-search{bottom:0;height:40px;width:40px;padding:0;position:absolute;right:0;border-bottom:0}#ja-search .search-btn{width:30px;height:30px;margin-top:5px}#ja-search .search-btn:hover{width:30px;height:30px;background-color:#12ace6;margin-top:5px;cursor:pointer}#ja-search form.search{display:none;background:#12ace6;position:absolute;top:35px;right:10px;padding:.5em;width:200px}#ja-search:hover form.search{display:block!important}#ja-search .inputbox{background:#222;border:1px solid #222;color:#ccc;margin:0;padding:4px 0;text-indent:10px;width:100%}#ja-mainnav{max-width:725px;font-size:.9em!important;height:40px;max-height:40px}</style><style media="only screen and (min-width:800px)">.main{width:1200px}h2{font-size:1.7em!important}#ja-content{width:960px}#ja-header{}#ja-top{height:40px;border-left:1px dotted #666}#ja-search{bottom:0;height:40px;width:40px;padding:0;position:absolute;right:0;border-bottom:0}#ja-search .search-btn{width:30px;height:30px;margin-top:5px}#ja-search .search-btn:hover{width:30px;height:30px;margin-top:5px;cursor:pointer}#ja-search form.search{display:none;background:#06c;position:absolute;top:35px;right:10px;padding:.5em;width:200px}#ja-search:hover form.search{display:block!important}#ja-search .inputbox{background:#222;border:1px solid #222;color:#ccc;margin:0;padding:4px 0;text-indent:10px;width:100%}#ja-mainnav{max-width:725px;height:40px;max-height:40px;width:725px}</style><style>body{font-family:'Open Sans',sans-serif,Arial;line-height:1.6}body#bd{background:#88bad3;color:#333;font-size:13px}body.fs3 #ja-wrapper{font-size:1.2em}a{color:#016114;text-decoration:none}a:hover,a:active,a:focus{color:#333;text-decoration:none}}
+
+p.readmore a:hover,
+p.readmore a:active,
+p.readmore a:focus {background-position:right bottom}.ja-content p,.ja-content h2,.ja-content ul{font-size:16px;margin:1em 0}h1{font-size:2.2em}h2{font-size:1.8em}.contentheading,h1,h2{color:#333;font-family:sans-serif;font-weight:normal}h2.contentheading,.contentheading{font-weight:normal;margin:0 0 1em;padding:0;white-space:nowrap;text-overflow:ellipsis;overflow:hidden}.contentheading{font-size:2.25em}.contentheading a{text-decoration:none}.contentheading a:hover,.contentheading a:active,.contentheading a:focus{}ul li{line-height:160%;margin-bottom:5px;overflow:hidden;padding-left:30px}dt{font-weight:bold}dd{margin-left:15px}img{max-width:100%}input,select,.inputbox{font-family:sans-serif;font-size:1em;padding:3px}input[type="checkbox"]{border:0}.inputbox{background:#fff;border:1px solid #ccc;color:#333}.inputbox:hover,.inputbox:focus{background:#fff}.item-page{background:#fff;border-top:1px solid #e6e6e6;position:relative}.item-page{margin-bottom:1em}#ja-main{float:none}#ja-container .main{padding:0}#ja-content{}#ja-content-main{background:#fff;border-top:1px solid #e6e6e6;margin:1em 1em 0;padding:1.5em}.com_content #ja-content-main{background:none;border-top:0;padding:0}// fix bug overflow hidden on edit article
+#ja-content.column,
+#ja-content .column {overflow:visible}#ja-header{color:#fff;margin-bottom:0}#ja-header .main{padding:0}#ja-header .main-inner1{background:#000}#ja-top{border-left:1px dotted #666;float:right;height:70px;position:absolute;width:auto;z-index:999;right:10px;top:0}#ja-search{border-bottom:1px dotted #666;height:31px;padding:0 1em;position:static}#ja-search .search-btn{display:block;float:left;height:30px;text-indent:-1000em;width:30px}#ja-search:hover .search-btn{}#ja-search form.search{float:left;padding-top:5px;width:155px}#ja-search .inputbox{background:#000;border:1px solid #000;color:#ccc;margin:0;padding:2px 0;text-indent:0;width:100%}#ja-mainnav{}.t3-logo a{border-bottom:0!important;margin-top:1em}.alert.alert-full-bleed{border-radius:0;display:flex;justify-content:center}.bg-primary{background-color:#0067b8!important;color:#fff}.alert{font-size:1rem;line-height:1.5;border:.0625rem solid transparent;border-radius:.125rem;position:relative;display:flex;padding:1rem 1.5rem;background-color:#e6e6e6;color:#fff}section{display:block}*,::after,::before{box-sizing:border-box}@media (min-width:860px){html:not([dir=rtl]) .pl-md-5, html:not([dir=rtl]) .px-md-5 {padding-left:3rem!important}html:not([dir=rtl]) .pr-md-5, html:not([dir=rtl]) .px-md-5 {padding-right:3rem!important}}@media (min-width:1084px){html:not([dir="rtl"]) .card-img-overlay > .card-foreground {margin-left:-100%!important;margin-right:0}}$bannergrande = $bannergrande . ' <source media="(min-width: 540px)" data-srcset="/images/offidocsbanner01-859x540.jpg.webp" srcset="/images/offidocsbanner01-859x540.jpg.webp"> ' . "\n";
+$bannergrande = $bannergrande . ' <img class="blur-up lazypreload card-img w-100 ls-is-cached lazyloaded x-hidden-focus" alt="Icons from the OffiDocs app like Gimp online, Audacity online, LibreOffice online, OpenOffice online, Openshot online and more. " data-srcset="/images/offidocsbanner01-539x400.jpg.webp" data-src="/images/offidocsbanner01-539x400.
+
+
+
+.card-img {width:100%;flex-shrink:0}@media (min-width:1400px){h2{font-size:2.3125rem;margin-bottom:1.25rem}}@media (min-width:1084px){h2{font-size:1.8125rem;margin-bottom:1rem;font-weight:bold}}h2{font-size:1.3rem;margin-bottom:.75rem;color:#0067b8!important}.contentheading a{color:#0067b8!important}@media (min-width:860px){html:not([dir=rtl]) .mr-md-n4, html:not([dir=rtl]) .mx-md-n4 {margin-right:-1.5rem!important}}html:not([dir=rtl]) [class*=link-group-col] {margin-right:-1.5rem}@media (min-width:860px){html:not([dir=rtl]) .mr-md-n4, html:not([dir=rtl]) .mx-md-n4 {margin-right:-1.5rem!important}}@media (min-width:540px){html:not([dir=rtl]) .mr-sm-0, html:not([dir=rtl]) .mx-sm-0 {margin-right:0!important}html:not([dir=rtl]) .link-group-col-sm-2 div {padding-right:1.5rem}}html:not([dir=rtl]) .link-group-col-1 div {padding-right:1.5rem}@media (min-width:1100px){.menux ul>li>ul{width:800px;columns:3;-webkit-columns:3;-moz-columns:3;border-bottom:solid}}@media (max-width:1099px) and (min-width:1000px){.menux ul>li>ul{width:520px;columns:2;-webkit-columns:2;-moz-columns:2;border-bottom:solid}}@media (max-width:1024px){.menux ul>li>ul{columns:1;-webkit-columns:1;-moz-columns:1;border-bottom:solid}}a{color:#0067b8}@media (min-width:768px){.site-footer{padding-bottom:80px}}.site-footer{background:#0d0751;color:#eee;padding:0 0 40px;font-size:15px;line-height:24px;text-align:center;padding-top:30px}@media (min-width:768px){.site-footer .wrap{text-align:left;grid-template-columns:3fr 1fr 2fr}}.site-footer .wrap{display:grid;grid-column-gap:32px;max-width:1158px;margin:0 auto;padding-left:24px;padding-right:24px}@media (min-width:768px){.site-footer .wrap .aboutwpbeginner{max-width:350px;grid-column:span 1;border:none;margin:0;padding:0}}@media (max-width:767px){.site-footer .wrap .aboutwpbeginner{grid-column: 1 / -1}}@media (min-width:768px){.site-footer .wrap .site-links{max-width:200px;border:none;margin:0;padding:0}}@media (max-width:767px){.site-footer .wrap .site-links{grid-column: 1 / -1}}@media (min-width:768px){.site-footer .wrap .our-sites{max-width:200px;border:none;margin:0;padding:0}}@media (max-width:767px){.site-footer .wrap .our-sites{grid-column: 1 / -1}}.aboutwpbeginner{padding-bottom:32px;margin-bottom:32px;border-bottom:1px solid rgba(157,140,129,.2)}.aboutwpbeginner .footer-heading{font-size:16px;font-weight:700;letter-spacing:normal;text-transform:none;margin-bottom:28px}.footer-heading{color:#fff;font-size:16px;font-weight:600;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;line-height:21px;letter-spacing:.08em;margin-bottom:25px;text-transform:uppercase}.site-footer p{margin:0 0 16px;padding:0}.site-footer a{color:#d7edf4;text-decoration:none}@media (min-width:768px){.footer-socials .social-label{display:inline-block;margin:0;vertical-align:middle}}.footer-socials .social-label{display:block;font-size:16px;margin-bottom:24px}@media (min-width:768px){.footer-socials .social-links{display:inline-block;vertical-align:middle}}.footer-socials .social-links{margin-left:-12px}.social-links{display:flex;flex-wrap:wrap;justify-content:space-around}@media (min-width: 768px)
+.footer-socials .social-links a {
+display: inline-flex;
+flex-basis: 0%;
+}.social-links a{float:left;display:flex;flex-basis:25%;justify-content:center;align-items:center;width:60px;height:60px}.footer-socials svg{fill:#fff}.footer-widget ul{display:block;list-style-type:disc;margin-block-start:1em;margin-block-end:1em;margin-inline-start:0;margin-inline-end:0;padding-inline-start:40px}.footer-widget ul li{list-style-type:none;margin-bottom:14px;display:list-item;text-align:-webkit-match-parent}@media (min-width: 768px)
+.site-footer .wrap .our-sites ul {
+-webkit-columns: 2;
+-moz-columns: 2;
+columns: 2;
+}.footer-copyright{color:#757575;font-size:15px;line-height:1.6;padding:40px 0;text-align:center}.footer-copyright .wrap{max-width:1158px;margin:0 auto;padding-left:24px;padding-right:24px}.footer-copyright p{margin-bottom:12px;margin:0 0 16px;padding:0}.site-links ul{margin:0;padding:0}.wrap ul{display:block;list-style-type:disc;margin-block-start:1em;margin-block-end:1em;margin-inline-start:0;margin-inline-end:0;padding-inline-start:1px}.wrap ul li{padding-left:0!important}.menux ul li ul li{padding-left:20px!important}@media screen and (min-width:1025px){.menux ul>li{padding-left:30px!important}}@media screen and (max-width:1024px){.menux .nav{padding-left:20px}}#ja-header .main{width:100%!important}@media (max-width:1024px){#ja-header{height:60px!important}}.item-page{box-shadow:0 1px 1px rgba(0,0,0,.25)}#ja-content-main{box-shadow:0 1px 1px rgba(0,0,0,.25)}.com_content #ja-content-main{box-shadow:none}.t3-logo a{opacity:.5;filter:alpha(opacity=50)
+}.t3-logo a:hover{opacity:1;filter:alpha(opacity=100)
+}</style><style>.word .inputbox{height:30px;font-size:16px;width:70%;margin-bottom:0}</style><style>@media screen and (max-width:1024px){.toggle-menu{font-size:1.25em;padding-left:20px}.menux{background-color:#fff;color:#262626;font-size:16px!important;position:relative;left:0;width:100%;padding:15px 0 5px 0;z-index:10;max-height:5px}}@media screen and (min-width:1025px){.toggle-menu{display:none}.menux{background-color:#fff;color:#262626;font-size:16px!important;position:relative;left:0;width:100%;padding:10px 0 6px 0;z-index:10;font-size:1.3em}}#ja-header .main-inner1{background:#fff;font-size:13px!important}.main .main-inner1{margin-left:0!important;margin-right:0!important}#ja-search{border-bottom:0!important}#ja-top{border-left:0!important}.menux input[type="checkbox"]{opacity:0;position:absolute;left:-9999px}.menux a{color:#262626;text-transform:none;text-decoration:none;-webkit-transition:.3s all ease;transition:.3s all ease}.menux a:hover{color:#e3dfe6}@media screen and (max-width:1024px){.menux .nav{background:#eee;position:relative;height:100%;width:300px;margin-top:22px;left:0;-webkit-transition:.3s all ease;transition:.3s all ease;-webkit-transform:translateX(-340px);transform:translateX(-340px);overflow-y:auto;font-size:18px}.menux #toggle-responsive:checked ~ .nav {-webkit-transform:translateX(0);transform:translateX(0)}}.menux label.toggle{color:transparent;position:relative}.menux label.toggle:hover{cursor:pointer}.menux label.toggle:hover:before{width:0;height:0;border-style:solid;border-color:transparent transparent transparent #e3dfe6;border-width:5.33333px}.menux label.toggle:before{content:"";font-size:16px;-webkit-transition:.3s all ease;transition:.3s all ease;position:absolute;top:50%;left:5px;-webkit-transform:translateY(0%) rotate(90deg);transform:translateY(0%) rotate(90deg);width:0;height:0;border-style:solid;border-color:transparent transparent transparent #262626;border-width:5.33333px}@media screen and (max-width:1024px){.menux label.toggle:before{left:15px}}.menux ul{position:relative}.menux ul,.menux ul li{list-style:none;padding:0;margin:0}.menux ul>li{position:relative;padding:10px 10px 10px 40px}@media screen and (min-width:1025px){.menux ul>li{display:inline;padding:0 10px}}.menux ul>li>ul{position:absolute;top: calc(100% + 10px);left:0;background:#eee;display:none}@media screen and (max-width:1024px){.menux ul>li>ul{position:relative;left:-10px;background:rgba(0,0,0,.1);width: calc(100% + 20px)}}@media screen and (min-width:1025px){.menux ul>li>ul>li{display:block;white-space:nowrap;height:30px;padding:6px 30px 6px 15px}}.menux ul>li input[type="checkbox"]:checked+ul{display:block}</style><style>.item-page{margin-bottom:1em;text-align:left}h2.contentheading,.contentheading{padding:10px;background:#0067b8;color:#fff;text-align:center!important}.ja-content p,.ja-content h2,.ja-content ul{font-size:16px;margin:1em 0;text-align:left}.contentheading a{color:#fff!important}.com_content #ja-content-main{text-align:center}@media (min-width:2000px){#ja-header .main{width:85%!important;margin-left:15%}#ja-container{float:left;width:50%;margin-left:13%;background:#88bad3}.right{width:30%;max-width:330px;float:left;background:#88bad3}}@media (min-width:1751px) and (max-width:1999px){#ja-header .main{width:90%!important;margin-left:10%}#ja-container{float:left;width:55%;margin-left:10%;background:#88bad3}.right{width:30%;max-width:330px;float:left;background:#88bad3}}@media (min-width:1600px) and (max-width:1750px){#ja-header .main{width:95%!important;margin-left:5%}#ja-container{float:left;width:1000px;margin-left:7%;background:#88bad3}.right{width:330px;float:left;background:#88bad3}}@media (min-width:1500px) and (max-width:1599px){#ja-header .main{width:100%!important;margin-left:0}#ja-container{float:left;width:calc(100% - 600px);max-width:700px;margin-left:250px;background:#88bad3}.right{width:330px;float:left;background:#88bad3}}@media (max-width:499px){#ja-container{position:relative;z-index:5;top:0}}@media (min-width:1420px) and (max-width:1499px){#ja-header .main{width:100%!important;margin-left:0}#ja-container{float:left;width:calc(100% - 600px);max-width:700px;margin-left:200px;background:#88bad3}.right{width:330px;float:left;background:#88bad3}}@media (min-width:1300px) and (max-width:1419px){#ja-header .main{width:80%!important;margin-left:0}#ja-container{float:left;width:700px;margin-left:150px;background:#88bad3}.right{width:330px;float:left;background:#88bad3}}@media (min-width:1200px) and (max-width:1299px){#ja-header .main{width:70%!important;margin-left:0}#ja-container{float:left;width:700px;margin-left:100px;background:#88bad3}.right{width:330px;float:left;background:#88bad3}}@media (max-width:1199px){#ja-header .main{width:90%!important;margin-left:2%}#ja-container{float:left;width:100%;background:#88bad3}.right{width:330px;background:#88bad3;float:left;margin-left: calc((100% - 330px)/2)}}@media (min-width:300px){.site-footer .wrap{padding-left:0}.right .box{background:#fff;width:auto;box-shadow: 0 2px 3px 0 rgb(0 0 0 / 15%);margin-bottom:20px}.right .box .title{background:#fbfbfb;border-bottom:1px solid #e8e8e8;height:55px;line-height:55px;color:#666;font-size:18px;padding:0 10px;font-weight:400;position:relative}.right .box ul{display:block;list-style-type:disc;margin-block-start:1em;margin-block-end:2px;margin-inline-start:0;margin-inline-end:0;padding-inline-start:10px;padding-top:10px}.right .box ul li{list-style:none}.right .box .title a{color:#666;text-decoration:none}.right .index_tab .hdr{position:absolute;bottom:-1px;right:15px}.right .index_tab .hdr li{float:left;position:relative}.index_tab .hdr li a{display:block;overflow:hidden;color:#888;padding:0 10px;height:40px;line-height:40px;text-align:center;font-size:16px;cursor:pointer;font-weight:200}.selectx_list{padding:15px}.right .selectx_list li{width:auto;border-bottom:1px solid #f2f2f2;clear:both;height:65px;padding:5px 5px 10px}.selectx_list li:nth-child(1) .selectx_list_number {background:url(https://static.apkpure.com/www/static/imgs/selectx_list_number.png) top center;color:red;margin-top: 25px
+height: 24px;background:#ccc}.selectx_list_number{float:left;width:20px;height:20px;background:#e7e7e7;margin-top:27px;text-align:center;line-height:20px;font-size:14px;font-weight:600}.selectx_list dl{display:block;position:relative;height:65px;overflow:hidden;width:270px;float:right}.selectx_list dl dt{float:left;width:85px;height:75px;text-align:center}.selectx_list dl dd{color:#666;overflow:hidden;line-height:22px;font-size:13px;text-overflow:ellipsis;white-space:nowrap}.selectx_list dl .title-dd a{font-size:14px;font-weight:600}.title-dd{color:#0b6a0e;font-weight:bold}.selectx_list dl dd a{color:#666;font-size:13px;display:block;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.selectx_list dl .down{position:absolute;bottom:-30px;left:85px;z-index:1}.right .selectx_list_more{padding:17px 0 2px 0;text-align:center}.selectx_list_more a{color:#666}}</style><style>@media screen and (max-width:1024px){.menux .nav{height:unset!important}}</style><style>.ja-copyright{display:none}</style><style>.site-footer a{color:#fff!important}.footer-copyright p{color:#fff!important}.site-footer p{color:#fff!important}</style><style>.addin{text-align:center;min-height;300px;max-height:300px;padding-top:120px;padding-bottom:120px;width:100%;min-width:100%;background:#000}</style><style>.contentheading,h1,h2{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif!important}</style><style>a.gflag{vertical-align:middle;font-size:24px;padding:1px 0;background-repeat:no-repeat;background-image:url(https://www.onworks.net/images/x24.png.pagespeed.ic.xN6zaIaFtk.png)}a.gflag img{border:0}a.gflag:hover{background-image:url(https://www.onworks.net/images/x24a.png.pagespeed.ic.pY4mc_JiFl.png)}</style><style>.searchx{box-sizing:border-box}#searchFormx input[type="text"]{padding:10px;font-size:17px;border:1px solid gray;float:left;width:60%;margin-left:19%;background:#f1f1f1;height:40px}#searchFormx button{float:left;height:40px;width:50px;min-width:50px;padding:5px;color:#fff;font-size:17px;border:1px solid gray;border-left:none;cursor:pointer;box-sizing:border-box}#searchFormx button:hover{background:#24cd77}#ja-search .search-btn{display:none}</style><style>h1 a{color:#fff}h1 a:hover{color:inherit!important;text-decoration:none!important}</style><style>*{box-sizing:inherit}[data-overflowing="both"] ~ .pn-Advancer_Left, [data-overflowing="left"] ~ .pn-Advancer_Left {opacity:1}[data-overflowing="both"] ~ .pn-Advancer_Right, [data-overflowing="right"] ~ .pn-Advancer_Right {opacity:1}</style><script>var siteurl='/';var tmplurl='/templates/ja_elastica/';var isRTL=false;</script>
+<base href="https://www.onworks.net"/>
+<meta http-equiv=content-type content="text/html; charset=utf-8"/>
+<meta name=keywords content="Windows 10 online Theme, run Windows 10 online Theme, web Windows 10 online Theme"/>
+<meta name=author content="Super User"/>
+<meta name=description content="Run online Windows 10 online a GTK theme created by b00merang with a icon theme pack which can give an Ubuntu installation a complete makeover like Windows 10"/>
+<meta name=generator content="Mobile and Web Applications"/>
+<link rel=canonical href="https://www.onworks.net/os-distributions/special-os/windows-10-online-theme"><title>Windows online emulator - Online in the Cloud</title>
+<meta property=og:site_name content=OnWorks.net />
+<meta property=og:title content="Windows online emulator - Online in the Cloud"/>
+<meta property=og:type content=website />
+<link rel=alternate href="https://www.onworks.net/os-distributions/special-os/windows-10-online-theme" hreflang=x-default />
+<link rel=alternate href="https://www.onworks.net/os-distributions/special-os/windows-10-online-theme" hreflang=en />
+<link rel=alternate href="https://www.onworks.net/pt/os-distributions/special-os/windows-10-online-theme" hreflang=pt />
+<link rel=alternate href="https://www.onworks.net/es/os-distributions/special-os/windows-10-online-theme" hreflang=es />
+<link rel=alternate href="https://www.onworks.net/ar/os-distributions/special-os/windows-10-online-theme" hreflang=ar />
+<link rel=alternate href="https://www.onworks.net/zh-CN/os-distributions/special-os/windows-10-online-theme" hreflang=zh />
+<link rel=alternate href="https://www.onworks.net/hi/os-distributions/special-os/windows-10-online-theme" hreflang=hi />
+<link rel=alternate href="https://www.onworks.net/it/os-distributions/special-os/windows-10-online-theme" hreflang=it />
+<link rel=alternate href="https://www.onworks.net/nl/os-distributions/special-os/windows-10-online-theme" hreflang=nl />
+<link rel=alternate href="https://www.onworks.net/ja/os-distributions/special-os/windows-10-online-theme" hreflang=ja />
+<link rel=alternate href="https://www.onworks.net/pl/os-distributions/special-os/windows-10-online-theme" hreflang=pl />
+<link rel=alternate href="https://www.onworks.net/de/os-distributions/special-os/windows-10-online-theme" hreflang=de />
+<link rel=alternate href="https://www.onworks.net/fr/os-distributions/special-os/windows-10-online-theme" hreflang=fr />
+<link rel=alternate href="https://www.onworks.net/tr/os-distributions/special-os/windows-10-online-theme" hreflang=tr />
+<link rel=alternate href="https://www.onworks.net/ko/os-distributions/special-os/windows-10-online-theme" hreflang=ko />
+<link rel=alternate href="https://www.onworks.net/ms/os-distributions/special-os/windows-10-online-theme" hreflang=ms />
+<link rel=alternate href="https://www.onworks.net/ro/os-distributions/special-os/windows-10-online-theme" hreflang=ro />
+<link rel=alternate href="https://www.onworks.net/ru/os-distributions/special-os/windows-10-online-theme" hreflang=ru />
+<link rel=alternate href="https://www.onworks.net/iw/os-distributions/special-os/windows-10-online-theme" hreflang=he />
+<link rel=alternate href="https://www.onworks.net/uk/os-distributions/special-os/windows-10-online-theme" hreflang=uk />
+<link rel=alternate href="https://www.onworks.net/ml/os-distributions/special-os/windows-10-online-theme" hreflang=ml />
+<link rel=alternate href="https://www.onworks.net/lo/os-distributions/special-os/windows-10-online-theme" hreflang=lo />
+<link rel=alternate href="https://www.onworks.net/bn/os-distributions/special-os/windows-10-online-theme" hreflang=bn />
+<link rel=alternate href="https://www.onworks.net/fa/os-distributions/special-os/windows-10-online-theme" hreflang=fa />
+<link rel=alternate href="https://www.onworks.net/th/os-distributions/special-os/windows-10-online-theme" hreflang=th />
+<link rel=alternate href="https://www.onworks.net/vi/os-distributions/special-os/windows-10-online-theme" hreflang=vi />
+<link rel=alternate href="https://www.onworks.net/id/os-distributions/special-os/windows-10-online-theme" hreflang=id />
+<link rel=alternate href="https://www.onworks.net/tl/os-distributions/special-os/windows-10-online-theme" hreflang=tl />
+<link href="https://www.onworks.net/component/search/?Itemid=693&amp;catid=117&amp;id=65763&amp;format=opensearch" rel=search title="Search OnWorks Linux Online and Windows Online WorkStations" type="application/opensearchdescription+xml"/>
+<script></script>
+<!--[if ie]><link href="/plugins/system/jat3/jat3/base-themes/default/css/template-ie.css" type="text/css" rel="stylesheet" /><![endif]-->
+<!--[if ie 7]><link href="/plugins/system/jat3/jat3/base-themes/default/css/template-ie7.css" type="text/css" rel="stylesheet" /><![endif]-->
+<!--[if ie 7]><link href="/templates/ja_elastica/css/template-ie7.css" type="text/css" rel="stylesheet" /><![endif]-->
+<meta name=viewport content="width=device-width, initial-scale=1.0, maximum-scale=3.0, user-scalable=yes"/>
+<meta name=HandheldFriendly content=true />
+<link href="/images/onworkslogofavicon.ico" rel="shortcut icon" type="image/x-icon"/>
+<script defer src="/postscribe.min.js.pagespeed.jm.LMMVyxhH09.js"></script>
+<script>
+
+window.onload = function(e){
+document.getElementById("ja-header").style.overflowY = "unset";
+//document.getElementById('ulmegamenulevel0').style.overflowX = "auto";
+//quicklink.listen();
+
+}
+
+function getOffset(el) {
+const rect = el.getBoundingClientRect();
+return Math.floor(rect.top + window.scrollY) + "px";
+}
+
+
+
+function lazyScript(c,e){var n=document.createElement("script");n.async=!0,e&&(n.onload=e),document.head.appendChild(n),n.src=c}
+function lazyScriptwithId(id,c,e){var n=document.createElement("script");n.setAttribute('id', id);n.async=true,e&&(n.onload=e),document.head.appendChild(n),n.src=c}
+
+
+function messagexy() {
+setTimeout(function(){
+
+
+
+var config = {
+apiKey: "AIzaSyBxzqOKnWodZ6w4M46rxka1BwZne9IIl3c",
+authDomain: "onworks.firebaseapp.com",
+databaseURL: "https://onworks.firebaseio.com",
+projectId: "onworks",
+storageBucket: "onworks.appspot.com",
+messagingSenderId: "796898949162",
+appId: "1:796898949162:web:cdad3affee39c481d8eb53"
+};
+
+
+firebase.initializeApp(config);
+const messaging = firebase.messaging();
+
+function requestNotificationPermission() {
+return new Promise((resolve, reject) => {
+Notification.requestPermission().then((permission) => {
+if (permission === 'granted') {
+console.log('Notification permission granted.');
+resolve();
+} else {
+console.log('Notification permission denied.');
+reject();
+}
+});
+});
+}
+
+function getToken() {
+messaging.getToken().then((currentToken) => {
+if (currentToken) {
+console.log('FCM Token:', currentToken);
+token = currentToken;
+var xhttp = new XMLHttpRequest();
+xhttp.onreadystatechange = function() {
+if (this.readyState == 4 && this.status == 200) {
+console.log("token posted");
+}
+};
+xhttp.open("POST", "/push/storetoken.php", true);
+xhttp.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+xhttp.send("token=" + token);
+} else {
+console.log('No FCM token available. Request permission to generate one.');
+}
+}).catch((err) => {
+console.log('An error occurred while retrieving token. ', err);
+});
+}
+
+
+navigator.serviceWorker.register( 'https://www.onworks.net/media/system/notifications/firebase-sw.js?amp=21' )
+.then( ( registration ) => {
+messaging.useServiceWorker( registration );
+
+requestNotificationPermission()
+.then(() => getToken())
+.catch((err) => console.log(err));
+} )
+.catch( ( error ) => console.log( 'error registering service worker: ', error ) );
+
+
+
+}, 100);
+}
+
+function relayouti()
+{
+}
+
+
+
+setTimeout(function () {
+var lazyLoad = false;
+
+
+function onLazyLoad() {
+if(lazyLoad === true) return;
+lazyLoad = true;
+document.removeEventListener('scroll', onLazyLoad);
+document.removeEventListener('mousemove', onLazyLoad);
+document.removeEventListener('mousedown', onLazyLoad);
+document.removeEventListener('touchstart', onLazyLoad);
+
+lazyScript("//www.googletagmanager.com/gtag/js?id=UA-117545413-4");
+
+
+var i0 = '<script> ' + " window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-117545413-4'); " + '<\/script>';
+postscribe(document.head, i0);
+
+const width = window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth;
+
+lazyScript("//www.gstatic.com/firebasejs/8.10.0/firebase-app.js");
+setTimeout(() => {
+lazyScript("//www.gstatic.com/firebasejs/8.10.0/firebase-messaging.js");
+messagexy();
+}, "1000");
+
+
+
+var lazyImages = [].slice.call(document.querySelectorAll("img.lzl")); if ("IntersectionObserver" in window) { let lazyImageObserver = new IntersectionObserver(function(entries, observer) { entries.forEach(function(entry) { if (entry.isIntersecting) { let lazyImage = entry.target; lazyImage.src = lazyImage.dataset.src; lazyImage.classList.remove("lzl"); lazyImageObserver.unobserve(lazyImage); } }); }); lazyImages.forEach(function(lazyImage) { lazyImageObserver.observe(lazyImage); }); }
+
+relayouti();
+
+
+//var n=document.createElement("script");
+//n.async=!0;
+//n.setAttribute('data-ad-client', 'ca-pub-8556862515989191');
+//document.head.appendChild(n);
+//n.src='//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js'
+
+
+setTimeout(function () {
+document.getElementById('gallerybottomx').style.display="block";
+}, 1000);
+
+
+
+var noadsx = getCookiex("noads");
+if ( noadsx == "" )
+{
+
+var iii22 = '<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"><\/script><ins id="insx1" class="adsbygoogle" style="display: block; max-height: 300px !important; height: 300px !important;" data-ad-client="ca-pub-8556862515989191" data-ad-slot="9498197758" data-ad-format="fluid"> </ins> <script> (adsbygoogle = window.adsbygoogle || []).push({}); <\/script> ';
+
+try {
+document.getElementById('adxxy').style.opacity = "";
+document.getElementById('adxxyin').style.display = "none";
+postscribe(document.getElementById('adxxy'), iii22);
+} catch (error) {}
+
+var iii22 = '<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"><\/script><ins id="insx2" class="adsbygoogle" style="display: block; max-height: 300px !important; height: 300px !important;" data-ad-client="ca-pub-8556862515989191" data-ad-slot="3572111325" data-ad-format="fluid"> </ins> <script> (adsbygoogle = window.adsbygoogle || []).push({}); <\/script> ';
+
+document.getElementById('adonworksbotin').style.display = "none";
+postscribe(document.getElementById('adonworksbot'), iii22);
+
+
+var iii22 = '<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"><\/script><ins id="insx3" class="adsbygoogle" style="display: block; max-height: 300px !important; height: 300px !important;" data-ad-client="ca-pub-8556862515989191" data-ad-slot="8632866318" data-ad-format="fluid"> </ins> <script> (adsbygoogle = window.adsbygoogle || []).push({}); <\/script> ';
+
+//document.getElementById('adxxzin').style.display = "none";
+//postscribe(document.getElementById('adxxz'), iii22);
+
+
+// setTimeout(function(){
+// var ad_container = document.getElementById('insx3');
+
+// if( ad_container.getAttribute("data-ad-status") == "unfilled" ) {
+// ad_container.innerHTML = '<a target="_blank" href="https://amzn.to/3Tm50jT"> <img src="https://www.offidocs.com/images/offidocs-banner-600x300-v3.jpg?v=1" alt="OffiDocs productivity tools" style="height: 300px; width:auto;"> </a>';
+// }
+
+// }, 500);
+
+// setTimeout(function(){
+// var ad_container = document.getElementById('insx3');
+
+// if( ad_container.getAttribute("data-ad-status") == "unfilled" ) {
+// ad_container.innerHTML = '<a target="_blank" href="https://amzn.to/3Tm50jT"> <img src="https://www.offidocs.com/images/offidocs-banner-600x300-v3.jpg?v=1" alt="OffiDocs productivity tools" style="height: 300px; width:auto;"> </a>';
+// }
+
+// }, 2000);
+// setTimeout(function(){
+// var ad_container = document.getElementById('insx3');
+
+// if( ad_container.getAttribute("data-ad-status") == "unfilled" ) {
+// ad_container.innerHTML = '<a target="_blank" href="https://amzn.to/3Tm50jT"> <img src="https://www.offidocs.com/images/offidocs-banner-600x300-v3.jpg?v=1" alt="OffiDocs productivity tools" style="height: 300px; width:auto;"> </a>';
+// }
+
+// }, 4000);
+}
+else {
+document.getElementById('adxxy').style.display = "none";
+document.getElementById('adxxz').style.display = "none";
+document.getElementById('adonworksbot').style.display = "none";
+}
+
+
+
+
+}
+document.addEventListener("scroll", onLazyLoad);
+document.addEventListener("mousemove", onLazyLoad);
+document.addEventListener("mousedown", onLazyLoad);
+document.addEventListener("touchstart", onLazyLoad);
+document.addEventListener("load", function () {document.body.clientHeight != document.documentElement.clientHeight && 0 == document.documentElement.scrollTop && 0 == document.body.scrollTop || onLazyLoad()});
+
+
+
+
+}, 300);
+
+
+
+</script>
+<link rel=canorigin href="https://www.onworks.net/os-distributions/special-os/windows-10-online-theme"><link rel="preconnect dns-prefetch" href="https://gtranslate.net"><link rel="preconnect dns-prefetch" href="https://pagead2.googlesyndication.com"><link rel="preconnect dns-prefetch" href="https://googleads.g.doubleclick.com"><link rel="preconnect dns-prefetch" href="https://apis.google.com/"><link rel="preconnect dns-prefetch" href="https://www.google-analytics.com"><link rel="preconnect dns-prefetch" href="https://www.googletagservices.com"><link rel="preconnect dns-prefetch" href="https://securepubads.g.doubleclick.net"><link rel="preconnect dns-prefetch" href="https://www.googletagmanager.com"><meta name=apple-mobile-web-app-status-bar content="#36364a"><meta name=theme-color content="#36364a"><script>var mostradosubmenu=0;function bigImg(x){document.getElementById("productfeatures").style.display="block";}function normalImg(x){if(x==2){document.getElementById("productfeatures").style.display="none";}}function conmutaImg(){if(mostradosubmenu==0){mostradosubmenu=1;document.getElementById("productfeatures").style.display="block";}else{mostradosubmenu=0;document.getElementById("productfeatures").style.display="none";}}var mostradosubmenupricingx=0;function bigImgpricingx(x){document.getElementById("pricingx").style.display="block";}function normalImgpricingx(x){if(x==2){document.getElementById("pricingx").style.display="none";}}function conmutaImgpricingx(){if(mostradosubmenupricingx==0){mostradosubmenupricingx=1;document.getElementById("pricingx").style.display="block";}else{mostradosubmenupricingx=0;document.getElementById("pricingx").style.display="none";}}</script>
+<meta name=impact-site-verification value=24ba5637-2c1f-4a0a-a2c9-f7983893089c><link rel=dns-prefetch href="//www.offidocs.com"><link rel=dns-prefetch href="//stpd.cloud"></head>
+<body id=bd class="bd fs3 com_content" style='background:#88bad3;font-family:-apple-system,BlinkMacSystemFont,&quot;Segoe UI&quot;,Roboto,Oxygen-Sans,Ubuntu,Cantarell,&quot;Helvetica Neue&quot;,sans-serif!important'>
+<div id=interstitial_x> </div>
+<div id=adzz style="display:none;overflow:visible;position:absolute;top:0;margin-top:645px;left:10px;height:100%;max-width:100%;width:160px;z-index:10">
+<div id=adzzin>
+</div>
+</div>
+<div id=adxx style="display:none;overflow:visible;position:absolute;top:0;margin-top:645px;right:10px;height:100%;max-width:100%;width:160px;z-index:10">
+<div id=adxxin>
+</div>
+</div>
+<a name=Top id=Top></a>
+<div id=ja-wrapper>
+<div id=ja-header style="max-height:50px;height:50px;background:#fff" class="wrap ">
+<div class=main>
+<div class="main-inner1 clearfix">
+<div id=ja-mainnav onmouseleave="normalImg('2')" class=clearfix>
+<div class=menux>
+<label for=toggle-responsive class=toggle-menu><img style=margin-top:-10px width=48 height=48 src="https://www.onworks.net/images/xmenu_x48.png.pagespeed.ic.4B36jjs-Mi.png" alt="Menu OnWorks"/></label>
+<input type=checkbox id=toggle-responsive />
+<ul class="nav level-one">
+<li><a href="https://www.onworks.net/" id=menu072 title="OnWorks Logo"><img width=30 height=30 src="/images/xonworkslogox30.png.pagespeed.ic.9dyO1h-5_8.png" style="background:#fff;margin-top:-10px;margin-bottom:-10px" alt="OnWorks Logo"/> </a></li>
+<li class="mega haschild active"><a href="javascript:void(0)" onmousedown="conmutaImg()" onmouseenter="bigImg()" onmouseleave="normalImg('1')">Products</a>
+<label onmousedown="conmutaImg()" onmouseenter="bigImg()" onmouseleave="normalImg('3')" for=toggle-level-2-01 class=toggle>o</label>
+<input type=checkbox id=toggle-level-2-01 />
+<ul id=productfeatures onmouseleave="normalImg('2')" class=level-two>
+<li><a href="/os-distributions/ubuntu-based" id=menu634 title="Ubuntu servers based">- Ubuntu servers</a></li><li><a href="/os-distributions/debian-based" id=menu692 title="Debian servers based">- Debian servers</a></li><li><a href="/os-distributions/rpm-based" id=menu694 title="Fedora servers based">- Fedora servers</a></li><li class="mega active"><a href="/os-distributions/special-os" class="mega active" id=menu693 title="Special OS">- Special Servers</a></li><li><a href="/os-distributions/programs" id=menu708 title=Programs>- Programs to run</a></li>
+<li><a href="https://www.onworks.net/thirdparty/gdrive/google-api-php-client/core/download.php" target=_blank id=menu710 title="Open OnWorks session from Google Drive">- GDrive open session</a></li><li><a href="https://www.onworks.net/thirdparty/gdrive/google-api-php-client/core/upload.php" target=_blank id=menu709 title="Save OnWorks session in Google Drive">- GDrive save session</a></li><li><a href="/applications/ios-apps" id=menu703 title="IOS apps">- Our IOS apps</a></li><li><a href="/applications/android-apps" id=menu704 title="Android apps">- Our Android apps</a></li>
+<li><a href="/categories.php" id=menu729 title=Linux>- Download Linux apps</a></li><li><a href="/categories.php" id=menu730 title=Windows>- Download Windows apps</a></li>
+<li><a href="/antivirus-online-windows-linux-file.php" id=menu729a title="AntiVirus online">- AntiVirus online</a></li> <li><a href="/free-vpn-secure-proxy.php" id=menu729b title="VPNOnline Secure VPN as unlimited proxy">- VPN secure proxy</a></li> <li><a href="/free-owncloud-online.php" id=menu729c title="Free File sharing by Onworks">- File sharing</a></li> </ul>
+</li>
+<li id=pricingxparent class=parent><a href="javascript:void(0)" onmousedown="conmutaImgpricingx()" onmouseenter="bigImgpricingx()" onmouseleave="normalImgpricingx('1')">Pricing</a>
+<label onmousedown="conmutaImgpricingx()" onmouseenter="bigImgpricingx()" onmouseleave="normalImgpricingx('3')" for=toggle-level-2-02 class=toggle>o</label>
+<input type=checkbox id=toggle-level-2-02 />
+<ul id=pricingx onmouseleave="normalImgpricingx('2')" class=level-two style="-webkit-columns:1;-moz-columns:1;width:250px">
+<li style=margin-top:10px><a href="https://www.megadisk.net/pricing-onworks/" id=menu6041 title="OnWorks free">- Run OnWorks free</a></li>
+<li><a href="https://www.megadisk.net/pricing-onworks/" id=menu6061 title="Run OnWorks without ads">- Run OnWorks without ads</a></li>
+</ul>
+</li>
+<li><a href="https://www.onworks.net/amazon-affiliate.php" id=amazon3393 title="Amazon affiliate">Amazon</a></li>
+<li><a href="https://www.onworks.net/tripcom-affiliate.php" id=tripcom3393 title="Trip.com affiliate">Trip.com</a></li>
+<li><a href="https://www.onworks.net/temu-affiliate.php" id=temu3393 title="Temu affiliate">Temu</a></li>
+</ul>
+</div>
+</div>
+<div id=ja-top class=clearfix style="height:40px;min-height:40px;min-width:200px">
+<div id=ja-search style="height:40px;min-height:40px">
+<span class=search-btn><img class=search-btn style="height:22px;width:22px" src="https://www.onworks.net/images/x240px-Search_Icon.svg.png.pagespeed.ic.ZxTaLxD2eB.png" alt=search title=search></img></span>
+<div style=display:none>
+<form action="/os-distributions/special-os" method=post class=search>
+<label for=mod-search-searchword>Search...</label><input name=searchword id=mod-search-searchword maxlength=50 class=inputbox type=text size=40 value=Search... onblur="if (this.value=='') this.value='Search...';" onfocus="if (this.value=='Search...') this.value='';"/> <input type=hidden name=task value=search />
+<input type=hidden name=option value=com_search />
+<input type=hidden name=Itemid value=693 />
+</form>
+</div>
+</div>
+<div id=langx style="padding-top:6px;text-align:right;top:0;margin-top:0;position:absolute;right:60px">
+<a href="#" onclick="doGTranslate('en|en');return false;" title=English class="gflag nturl" style="background-position:-0 -0"><img src="https://www.onworks.net/images/blank.png" loading=lazy height=24 width=24 alt=English /></a><a href="#" onclick="doGTranslate('en|fr');return false;" title=French class="gflag nturl" style="background-position:-200px -100px"><img src="https://www.onworks.net/images/blank.png" loading=lazy height=24 width=24 alt=French /></a><a href="#" onclick="doGTranslate('en|de');return false;" title=German class="gflag nturl" style="background-position:-300px -100px;display:none"><img src="https://www.onworks.net/images/blank.png" loading=lazy height=24 width=24 alt=German /></a><a href="#" onclick="doGTranslate('en|it');return false;" title=Italian class="gflag nturl" style="background-position:-600px -100px;display:none"><img src="https://www.onworks.net/images/blank.png" loading=lazy height=24 width=24 alt=Italian /></a><a href="#" onclick="doGTranslate('en|pt');return false;" title=Portuguese class="gflag nturl" style="background-position:-300px -200px;display:none"><img src="https://www.onworks.net/images/blank.png" loading=lazy height=24 width=24 alt=Portuguese /></a><a href="#" onclick="doGTranslate('en|ru');return false;" title=Russian class="gflag nturl" style="background-position:-500px -200px;display:none"><img src="https://www.onworks.net/images/blank.png" loading=lazy height=24 width=24 alt=Russian /></a><a href="#" onclick="doGTranslate('en|es');return false;" title=Spanish class="gflag nturl" style="background-position:-600px -200px"><img src="https://www.onworks.net/images/blank.png" loading=lazy height=24 width=24 alt=Spanish /></a>
+<br/><select onchange="doGTranslate(this);" style="width:60px;position:absolute;top:0;margin-top:10px"><option value="">Lang</option><option value="en|en">English</option><option value="en|ar">Arabic</option><option value="en|zh-CN">Chinese (Simplified)</option><option value="en|nl">Dutch</option><option value="en|fr">French</option><option value="en|de">German</option><option value="en|hi">Hindi</option><option value="en|it">Italian</option><option value="en|ja">Japanese</option><option value="en|ko">Korean</option><option value="en|pl">Polish</option><option value="en|pt">Portuguese</option><option value="en|ro">Romanian</option><option value="en|ru">Russian</option><option value="en|es">Spanish</option><option value="en|tl">Filipino</option><option value="en|iw">Hebrew</option><option value="en|id">Indonesian</option><option value="en|uk">Ukrainian</option><option value="en|vi">Vietnamese</option><option value="en|th">Thai</option><option value="en|tr">Turkish</option><option value="en|fa">Persian</option><option value="en|ms">Malay</option><option value="en|bn">Bengali</option><option value="en|lo">Lao</option></select>
+<script>function doGTranslate(lang_pair){if(lang_pair.value)lang_pair=lang_pair.value;if(lang_pair=='')return;var lang=lang_pair.split('|')[1];var plang=location.pathname.split('/')[1];if(plang.length!=2&&plang.toLowerCase()!='zh-cn'&&plang.toLowerCase()!='zh-tw')plang='en';if(lang=='en')location.href=location.protocol+'//'+location.host+location.pathname.replace('/'+plang+'/','/')+location.search;else location.href=location.protocol+'//'+location.host+'/'+lang+location.pathname.replace('/'+plang+'/','/')+location.search;}</script></div><script <script>window.addEventListener('load',function(){document.getElementById("ja-search").addEventListener("click",function(event){console.log("search click");window.location="/component/search/?searchword=7669727475616c&ordering=newest&searchphrase=all&limit=150";},false);});</script>
+</div>
+<ul class=no-display>
+<li><a href="#ja-content" title="Skip to content">Skip to content</a></li>
+</ul> </div>
+</div>
+</div>
+<div class=custom> </div>
+<div id=alert><section class="alert alert-full-bleed bg-primary"><div class=alert-content><p><strong></strong> <a style="color:#fff" title="Run free Ubuntu online by OnWorks" target=_blank class=notranslate href="https://www.onworks.net/runos/create-os.html?os=ubuntu-20.04.1-desktop&home=init">Ubuntu</a> | <a style="color:#fff" title="Run free Fedora Linux online by OnWorks" target=_blank class=notranslate href="https://www.onworks.net/runos/create-os.html?os=Fedora-Workstation-Live-x86_64-29-1.2&home=init">Fedora</a> | <a style="color:#fff" title="VPN online for secured web browsing" target=_blank class=notranslate href="https://chromewebstore.google.com/detail/vpnonline-secure-vpn-as-u/ojoiohfkfnfkdcmccickjhkmcdgeeifl">VPN</a> | <a style="color:#fff" title="Free Owncloud storage solution with free disk now Megadisk" target=_blank class=notranslate href="https://www.onworks.net/free-owncloud-online.php">File sharing</a></p> </div> </section> </div>
+<div id=ja-container-prev-b class="main clearfix" style="display:none;margin-top:0;min-height:300px;max-height:300px;height:300px;overflow:hidden"> <div id=adxxz style="display:none;text-align:center;min-width:350px;width:100%;min-height:300px;max-height:300px;margin-top:0;margin-left:0;margin-bottom:0;margin-right:0;overflow:hidden"> <div id=adxxzin style="text-align:center;min-height;300px;max-height:300px;padding-top:0;padding-bottom:0;width:100%;min-width:100%"> <a target=_blank href="https://amzn.to/3Tm50jT"> <img src="https://www.offidocs.com/images/offidocs-banner-600x300-v3.jpg?v=1" alt="OffiDocs productivity tools" style="height:300px;width:auto"> </a> </div> </div> </div><div class=searchx style=text-align:center>
+<form id=searchFormx action="/component/search/" method=post>
+<fieldset class=word>
+<input type=text name=searchword id=search-searchword size=30 maxlength=50 value="" placeholder="Search ..." class=inputbox />
+<button name=Search onclick="this.form.submit()" class=button2><img class=search-btn style="height:22px;width:22px" src="/images/x240px-Search_Icon.svg.png.pagespeed.ic.ZxTaLxD2eB.png" loading=lazy alt=search title=search></button>
+<input type=hidden name=task value=search />
+</fieldset>
+</form> </div><div id=ja-container class="wrap ja-mf clearfix" style=margin-top:15px>
+<div style="text-align:center;width:100%;margin:auto"><br><img src="/images/onworkslogofavicon.ico" alt="OnWorks favicon" width=1 height=1></img><h1 style="color:#fafafa"><a href="https://search.offidocs.com?q=Windows+online+emulator+-+Online+in+the+Cloud&uref=68747470733a2f2f7777772e6f6e776f726b732e6e65742f6f732d646973747269627574696f6e732f7370656369616c2d6f732f77696e646f77732d31302d6f6e6c696e652d7468656d65&utitle=57696e646f7773206f6e6c696e6520656d756c61746f72202d204f6e6c696e6520696e2074686520436c6f7564&uimg=68747470733a2f2f7777772e6f6e776f726b732e6e65742f696d6167657363726f707065642f77696e646f7773313069636f6e3132382e6a70675f332e77656270&udesc=52756e206f6e6c696e652057696e646f7773203130206f6e6c696e6520612047544b207468656d652063726561746564206279206230306d6572616e67207769746820612069636f6e207468656d65207061636b2077686963682063616e206769766520616e205562756e747520696e7374616c6c6174696f6e206120636f6d706c657465206d616b656f766572206c696b652057696e646f7773203130">Windows online emulator - Online in the Cloud</a></h1></div><div id=ja-main-wrap class="main clearfix" style="width:100%">
+<div id=ja-main class=clearfix style="">
+<div id=ja-content class=ja-content>
+<div id=ja-content-main class="ja-content-main clearfix">
+<div id=system-message-container>
+</div> <div class="item-page clearfix">
+<h2 class=contentheading style="margin:0!important;font-weight:bold;display:none">
+<a href="/os-distributions/special-os/windows-10-online-theme">
+Windows online emulator</a>
+</h2>
+<p>
+<script>function webwindows10(){window.open("https://www.onworks.net/runos/create-os.html?os=win10_emulator&home=init","_blank");return false;}</script>
+</p>
+<div style="width:100%;float:left;margin:0 0 10px 0">
+<div style=text-align:left><a style=float:left href="#" title="" onclick="return webwindows10();"><img src="/imagescropped/windows10icon128.jpg_3.webp" loading=lazy border=0 alt="Run free Windows 10 online theme" title="Run free Windows 10 online theme" width=128 height=128 /></a><span style="float:left;margin:10px 0 0 20px;max-width:200px"><p style="margin:0;font-size:22px;font-weight:bold">Windows emulator</p> <p style="margin:0;color:#3a5dc7">The Operative System</p><p style="margin:0;font-size:12px">Distributed by OnWorks</p></span></div>
+<div style="width:60%;float:left;margin:0 0 0 10px;max-width:300px;max-height:130px;overflow-y:hidden">
+<div class=slide style=margin-right:20px></div>
+</div>
+</div>
+<p style=text-align:center><a href="#" onclick="return webwindows10();" style="margin-right:10px;color:#fff;line-height:30px;font-size:.85em;background:#06c;padding:6px 20px;margin-left:.5em;padding-right:1em;padding-left:1em;text-transform:uppercase;text-decoration:none!important">Run online</a></p>
+<div style="margin:0;font-size:14px">
+<p> </p>
+<p> </p>
+<p>OnWorks Windows10 online is a GTK theme created by b00merang with a icon theme pack which can give an Ubuntu installation a complete makeover like Windows 10’s fluent design. It is a dark version of the theme.</p>
+<p> </p>
+<h2><strong>SCREENSHOTS</strong></h2>
+<div id=ja-container-prev class="main clearfix" style="margin-top:0;max-width:100%"> <div id=adxxy style="display:block;text-align:center;min-width:350px;width:100%;min-height:300px;max-height:300px;margin-top:0;margin-left:0;margin-bottom:0;margin-right:0;overflow:hidden;opacity:.1"><div id=adxxyin style="text-align:center;min-height;300px;max-height:300px;padding-top:120px;padding-bottom:120px;width:100%;min-width:100%;background:#000"> <p style="color:#fff;font-size:15px">Ad</p> </div> </div> </div><br><div id=carousel style="display:inline-block;display:-webkit-inline-box;display:-moz-inline-box;overflow-x:scroll">
+<div class=slide style=margin-right:20px><img src="/imagescropped/windows10screen01.jpg_3.webp" loading=lazy border=0 alt="Free Windows 10 online theme" title="Free Windows 10 online theme" style="height:400px;width:auto"/></div>
+<div class=slide style=margin-right:20px><img src="/imagescropped/windows10screen02.jpg_3.webp" loading=lazy border=0 alt="Free Windows 10 online theme" title="Free Windows 10 online theme" style="height:400px;width:auto"/></div>
+<div class=slide style=margin-right:20px><img src="/imagescropped/windows10screen03.jpg_3.webp" loading=lazy border=0 alt="Free Windows 10 online theme" title="Free Windows 10 online theme" style="height:400px;width:auto"/></div>
+<div class=slide style=margin-right:20px> </div>
+</div>
+<p> </p>
+<h2><strong>DESCRIPTION</strong></h2>
+<p> </p>
+<p>As you can see in this OnWorks Windows 10 online it is possible to get a single, Windows-style desktop environment on Ubuntu. It is not a perfect imitation of Windows here but an evidence about how to create a looking for an interface that looks and functions more like Windows.</p>
+<p>This is possible because the GNOME Shell desktop supports extensions, which can dramatically change the layout of the desktop and add various other features. Even if you don’t want to use a Windows-style desktop, this is a good example of how powerful GNOME Shell’s extensions and themes are. You can use GNOME Shell Extensions, the GNOME Tweaks application, and themes to customize your desktop in many different ways.</p>
+</div>
+<ul class=pagenav>
+<li class=pagenav-prev>
+<a href="/os-distributions/special-os/opensuse-edu-li-f-e" rel=prev>&lt; Prev</a>
+</li>
+<li class=pagenav-next>
+<a href="/os-distributions/special-os/free-linuxlite-online" rel=next>Next &gt;</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<br>
+</div><div class=right style=margin-top:20px>
+<div class="box index_tab index_r_tab">
+<div class=title style="display:grid;margin-bottom:-20px;justify-content:center">
+<p>Free Servers &amp; Workstations</p>
+</div>
+<div class=title>
+<p title="Free online server and online workstations" style=font-size:10px></p>
+<br>
+<ul class="hd hdr">
+<li id=linuxserverworkstations style=padding-left:15px><a id=alinuxserverworkstations style="color:#2f1cbb;font-size:14px" href="javascript:openlinuxserverworkstationsx()" title="Free online Linux server and online Linux workstations by Onworks">Free Linux</a></li>
+<li id=windowsserverworkstations style=padding-left:15px><a id=awindowsserverworkstations style=font-size:14px href="javascript:openwindowsserverworkstationsx()" title="Free online Windows server and online Windows workstations by Onworks">Free Wine</a></li>
+</ul>
+</div>
+<script>function openlinuxserverworkstationsx(){console.log("Word tempaltes");document.getElementById("xxlinuxserverworkstations").style.display="block";document.getElementById("alinuxserverworkstations").style.color="#2f1cbb";document.getElementById("xxwindowsserverworkstations").style.display="none";document.getElementById("awindowsserverworkstations").style.color="#888";}function openwindowsserverworkstationsx(){document.getElementById("xxlinuxserverworkstations").style.display="none";document.getElementById("alinuxserverworkstations").style.color="#888";document.getElementById("xxwindowsserverworkstations").style.display="block";document.getElementById("awindowsserverworkstations").style.color="#2f1cbb";}function openppttemplatesx(){document.getElementById("xxlinuxserverworkstations").style.display="none";document.getElementById("alinuxserverworkstations").style.color="#888";document.getElementById("xxwindowsserverworkstations").style.display="none";document.getElementById("awindowsserverworkstations").style.color="#888";}</script>
+<div class=bd>
+<ul id=xxlinuxserverworkstations class=selectx_list>
+<li>
+<div class=selectx_list_number>1</div>
+<dl>
+<dt><a title=Kubuntu href="/os-distributions/ubuntu-based/free-kubuntu-online"><img alt=Kubuntu width=60 height=60 data-srcset="/imageswebp/60_60_kubuntuicon128.jpg.webp" data-original="/imageswebp/60_60_kubuntuicon128.jpg.webp" src="/imageswebp/60_60_kubuntuicon128.jpg.webp" class=loaded srcset="/imageswebp/60_60_kubuntuicon128.jpg.webp" data-was-processed=true></a></dt>
+<dd class=title-dd><a title=Kubuntu href="/os-distributions/ubuntu-based/free-kubuntu-online">Kubuntu</a></dd>
+<dd>Ubuntu server</dd>
+<dd class=down><a class="" title="Kubuntu workstation" href="/os-distributions/ubuntu-based/free-kubuntu-online">Run server</a></dd>
+</dl>
+</li>
+<li>
+<div class=selectx_list_number>2</div>
+<dl>
+<dt><a title="Ubuntu 20" href="/os-distributions/ubuntu-based/free-ubuntu-online-version-20"><img alt="Ubuntu 20" width=60 height=60 data-srcset="/imageswebp/60_60_ubuntuicon128.jpg.webp" data-original="/imageswebp/60_60_ubuntuicon128.jpg.webp" src="/imageswebp/60_60_ubuntuicon128.jpg.webp" class=loaded srcset="/imageswebp/60_60_ubuntuicon128.jpg.webp" data-was-processed=true></a></dt>
+<dd class=title-dd><a title="Ubuntu 20" href="/os-distributions/ubuntu-based/free-ubuntu-online-version-20">Ubuntu 20</a></dd>
+<dd>Ubuntu server</dd>
+<dd class=down><a class="" title="Ubuntu 20 workstation" href="/os-distributions/ubuntu-based/free-ubuntu-online-version-20">Run server</a></dd>
+</dl>
+</li>
+<li>
+<div class=selectx_list_number>3</div>
+<dl>
+<dt><a title="Bodhi Linux" href="/os-distributions/ubuntu-based/free-bodhi-linux-online"><img alt="Bodhi Linux" width=60 height=60 data-srcset="/imageswebp/60_60_bodhilinuxicon128.png.webp" data-original="/imageswebp/60_60_bodhilinuxicon128.png.webp" src="/imageswebp/60_60_bodhilinuxicon128.png.webp" class=loaded srcset="/imageswebp/60_60_bodhilinuxicon128.png.webp" data-was-processed=true></a></dt>
+<dd class=title-dd><a title="Bodhi Linux" href="/os-distributions/ubuntu-based/free-bodhi-linux-online">Bodhi Linux</a></dd>
+<dd>Ubuntu server</dd>
+<dd class=down><a class="" title="Bodhi Linux workstation" href="/os-distributions/ubuntu-based/free-bodhi-linux-online">Run server</a></dd>
+</dl>
+</li>
+<li class=selectx_list_more><a href="/os-distributions/ubuntu-based">More »</a></li>
+</ul>
+<ul id=xxwindowsserverworkstations class=selectx_list style=display:none>
+<li>
+<div class=selectx_list_number>1</div>
+<dl>
+<dt><a title="Windows online emulator" href="/os-distributions/special-os/windows-10-online-theme"><img alt="Windows online emulator" width=60 height=60 data-srcset="/imageswebp/60_60_windows10icon128.jpg.webp" data-original="/imageswebp/60_60_windows10icon128.jpg.webp" src="/imageswebp/60_60_windows10icon128.jpg.webp" class=loaded srcset="/imageswebp/60_60_windows10icon128.jpg.webp" data-was-processed=true></a></dt>
+<dd class=title-dd><a title="Windows online emulator" href="/os-distributions/special-os/windows-10-online-theme">Windows online emulator</a></dd>
+<dd>Special server</dd>
+<dd class=down><a class="" title="Windows online emulator workstation" href="/os-distributions/special-os/windows-10-online-theme">Run server</a></dd>
+</dl>
+</li>
+<li>
+<div class=selectx_list_number>2</div>
+<dl>
+<dt><a title="Pear OS MAC emulator" href="/os-distributions/special-os/pear-os-online-mac-emulator"><img alt="Pear OS MAC emulator" width=60 height=60 data-srcset="/imageswebp/60_60_pearosicon128.jpg.webp" data-original="/imageswebp/60_60_pearosicon128.jpg.webp" src="/imageswebp/60_60_pearosicon128.jpg.webp" class=loaded srcset="/imageswebp/60_60_pearosicon128.jpg.webp" data-was-processed=true></a></dt>
+<dd class=title-dd><a title="Pear OS MAC emulator" href="/os-distributions/special-os/pear-os-online-mac-emulator">Pear OS MAC emulator</a></dd>
+<dd>Special server</dd>
+<dd class=down><a class="" title="Pear OS MAC emulator workstation" href="/os-distributions/special-os/pear-os-online-mac-emulator">Run server</a></dd>
+</dl>
+</li>
+<li>
+<div class=selectx_list_number>3</div>
+<dl>
+<dt><a title="Pearl OS MAC theme emulator" href="/os-distributions/special-os/pearl-os-mac-theme-emulator"><img alt="Pearl OS MAC theme emulator" width=60 height=60 data-srcset="/imageswebp/60_60_pearlosicon128.jpg.webp" data-original="/imageswebp/60_60_pearlosicon128.jpg.webp" src="/imageswebp/60_60_pearlosicon128.jpg.webp" class=loaded srcset="/imageswebp/60_60_pearlosicon128.jpg.webp" data-was-processed=true></a></dt>
+<dd class=title-dd><a title="Pearl OS MAC theme emulator" href="/os-distributions/special-os/pearl-os-mac-theme-emulator">Pearl OS MAC theme emulator</a></dd>
+<dd>Special server</dd>
+<dd class=down><a class="" title="Pearl OS MAC theme emulator workstation" href="/os-distributions/special-os/pearl-os-mac-theme-emulator">Run server</a></dd>
+</dl>
+</li>
+<li class=selectx_list_more><a href="/os-distributions/special-os">More »</a></li>
+</ul>
+</div>
+<div class=clear></div>
+</div>
+<div class="box index_tab index_r_tab">
+<div class=title style="display:grid;margin-bottom:-20px;justify-content:center">
+<p>Download Windows &amp; Linux apps</p>
+</div>
+<div class=title>
+<p title="Top Windows and Linux applications" style=font-size:10px></p>
+<br>
+<ul class="hd hdr">
+<li id=linuxappsdownloadonworks style=padding-left:15px><a id=alinuxappsdownloadonworks style="color:#2f1cbb;font-size:14px" href="javascript:openlinuxappsdownloadonworksx()" title="Download Linux apps by OnWorks">Linux apps</a></li>
+<li id=windowsappsdownloadonworks style=padding-left:15px><a id=awindowsappsdownloadonworks style=font-size:14px href="javascript:openwindowsappsdownloadonworksx()" title="Download Windows apps by OnWorks">Windows apps</a></li>
+</ul>
+</div>
+<script>function openlinuxappsdownloadonworksx(){document.getElementById("xxlinuxapps").style.display="block";document.getElementById("alinuxappsdownloadonworks").style.color="#2f1cbb";document.getElementById("xxwindowsapps").style.display="none";document.getElementById("awindowsappsdownloadonworks").style.color="#888";}function openwindowsappsdownloadonworksx(){document.getElementById("xxlinuxapps").style.display="none";document.getElementById("alinuxappsdownloadonworks").style.color="#888";document.getElementById("xxwindowsapps").style.display="block";document.getElementById("awindowsappsdownloadonworks").style.color="#2f1cbb";}</script>
+<div class=bd>
+<ul id=xxlinuxapps class=selectx_list>
+<li>
+<div class=selectx_list_number>1</div>
+<dl>
+<dt><a title="Quite Universal Circuit Simulator" href="/software/linux/app-quite-universal-circuit-simulator"><img alt="Quite Universal Circuit Simulator" width=60 height=60 data-srcset="/imageswebp/60_60_quiteuniversalcircuitsimulatoricon.png.webp" data-original="/imageswebp/60_60_quiteuniversalcircuitsimulatoricon.png.webp" src="/imageswebp/60_60_quiteuniversalcircuitsimulatoricon.png.webp" class=loaded srcset="/imageswebp/60_60_quiteuniversalcircuitsimulatoricon.png.webp" data-was-processed=true></a></dt>
+<dd class=title-dd><a title="Quite Universal Circuit Simulator" href="/software/linux/app-quite-universal-circuit-simulator">Quite Universal Circuit Simulator</a></dd>
+<dd> Qucs is a circuit simulator with<br>
+graphical user interface. The software<br>
+aims to support all kinds of circuit<br>
+simulation types, e.g. DC, AC,<br>
+S-parameter, Transi...</dd>
+<dd class=down><a class="" title="Download Quite Universal Circuit Simulator Linux app" href="/software/linux/app-quite-universal-circuit-simulator">Download Quite Universal Circuit Simulator</a></dd>
+</dl>
+</li>
+<li>
+<div class=selectx_list_number>2</div>
+<dl>
+<dt><a title=turkdevops href="/software/linux/app-turkdevops"><img alt=turkdevops width=60 height=60 data-srcset="/imageswebp/60_60_turkdevopsicon.png.webp" data-original="/imageswebp/60_60_turkdevopsicon.png.webp" src="/imageswebp/60_60_turkdevopsicon.png.webp" class=loaded srcset="/imageswebp/60_60_turkdevopsicon.png.webp" data-was-processed=true></a></dt>
+<dd class=title-dd><a title=turkdevops href="/software/linux/app-turkdevops">turkdevops</a></dd>
+<dd> TurkDevOps a�?k kaynak yaz?l?m<br>
+geli?tirici topluluklar? DevTurks-Team<br>
+Taraf?ndan desteklenmektedir..<br>
+Features:https://github.com/turkdevopshttps://turkdevops.g...</dd>
+<dd class=down><a class="" title="Download turkdevops Linux app" href="/software/linux/app-turkdevops">Download turkdevops</a></dd>
+</dl>
+</li>
+<li>
+<div class=selectx_list_number>3</div>
+<dl>
+<dt><a title=asammdf href="/software/linux/app-asammdf"><img alt=asammdf width=60 height=60 data-srcset="/imageswebp/60_60_asammdficon.png.webp" data-original="/imageswebp/60_60_asammdficon.png.webp" src="/imageswebp/60_60_asammdficon.png.webp" class=loaded srcset="/imageswebp/60_60_asammdficon.png.webp" data-was-processed=true></a></dt>
+<dd class=title-dd><a title=asammdf href="/software/linux/app-asammdf">asammdf</a></dd>
+<dd> *asammdf* is a fast Python parser and<br>
+editor for ASAM (Associtation for<br>
+Standardisation of Automation and<br>
+Measuring Systems) MDF / MF4<br>
+(Measurement Data Format...</dd>
+<dd class=down><a class="" title="Download asammdf Linux app" href="/software/linux/app-asammdf">Download asammdf</a></dd>
+</dl>
+</li>
+<li>
+<div class=selectx_list_number>4</div>
+<dl>
+<dt><a title="LAME (Lame Aint an MP3 Encoder)" href="/software/linux/app-lame-lame-aint-an-mp3-encoder"><img alt="LAME (Lame Aint an MP3 Encoder)" width=60 height=60 data-srcset="/imageswebp/60_60_lamelameaintanmp3encodericon.png.webp" data-original="/imageswebp/60_60_lamelameaintanmp3encodericon.png.webp" src="/imageswebp/60_60_lamelameaintanmp3encodericon.png.webp" class=loaded srcset="/imageswebp/60_60_lamelameaintanmp3encodericon.png.webp" data-was-processed=true></a></dt>
+<dd class=title-dd><a title="LAME (Lame Aint an MP3 Encoder)" href="/software/linux/app-lame-lame-aint-an-mp3-encoder">LAME (Lame Aint an MP3 Encoder)</a></dd>
+<dd>LAME is an educational tool to be used<br>
+for learning about MP3 encoding. The<br>
+goal of the LAME project is to improve<br>
+the psycho acoustics, quality and speed<br>
+of MP...</dd>
+<dd class=down><a class="" title="Download LAME (Lame Aint an MP3 Encoder) Linux app" href="/software/linux/app-lame-lame-aint-an-mp3-encoder">Download LAME (Lame Aint an MP3 Encoder)</a></dd>
+</dl>
+</li>
+<li>
+<div class=selectx_list_number>5</div>
+<dl>
+<dt><a title=wxPython href="/software/linux/app-wxpython"><img alt=wxPython width=60 height=60 data-srcset="/imageswebp/60_60_wxpythonicon.png.webp" data-original="/imageswebp/60_60_wxpythonicon.png.webp" src="/imageswebp/60_60_wxpythonicon.png.webp" class=loaded srcset="/imageswebp/60_60_wxpythonicon.png.webp" data-was-processed=true></a></dt>
+<dd class=title-dd><a title=wxPython href="/software/linux/app-wxpython">wxPython</a></dd>
+<dd> A set of Python extension modules that<br>
+wrap the cross-platform GUI classes from<br>
+wxWidgets.. Audience: Developers. User<br>
+interface: X Window System (X11), Win32 ...</dd>
+<dd class=down><a class="" title="Download wxPython Linux app" href="/software/linux/app-wxpython">Download wxPython</a></dd>
+</dl>
+</li>
+<li>
+<div class=selectx_list_number>6</div>
+<dl>
+<dt><a title=packfilemanager href="/software/linux/app-packfilemanager"><img alt=packfilemanager width=60 height=60 data-srcset="/imageswebp/60_60_packfilemanagericon.png.webp" data-original="/imageswebp/60_60_packfilemanagericon.png.webp" src="/imageswebp/60_60_packfilemanagericon.png.webp" class=loaded srcset="/imageswebp/60_60_packfilemanagericon.png.webp" data-was-processed=true></a></dt>
+<dd class=title-dd><a title=packfilemanager href="/software/linux/app-packfilemanager">packfilemanager</a></dd>
+<dd>This is the Total War pack file manager<br>
+project, starting from version 1.7. A<br>
+short introduction into Warscape<br>
+modding: ...</dd>
+<dd class=down><a class="" title="Download packfilemanager Linux app" href="/software/linux/app-packfilemanager">Download packfilemanager</a></dd>
+</dl>
+</li>
+<li class=selectx_list_more><a href="/software/linux">More »</a></li>
+</ul>
+<ul id=xxwindowsapps class=selectx_list style=display:none>
+<li>
+<div class=selectx_list_number>1</div>
+<dl>
+<dt><a title="ONVIF Device Manager" href="/software/windows/app-onvif-device-manager"><img alt="ONVIF Device Manager" width=60 height=60 data-srcset="/imageswebp/60_60_onvifdevicemanagericon.png.webp" data-original="/imageswebp/60_60_onvifdevicemanagericon.png.webp" src="/imageswebp/60_60_onvifdevicemanagericon.png.webp" class=loaded srcset="/imageswebp/60_60_onvifdevicemanagericon.png.webp" data-was-processed=true></a></dt>
+<dd class=title-dd><a title="ONVIF Device Manager" href="/software/windows/app-onvif-device-manager">ONVIF Device Manager</a></dd>
+<dd> ONVIF Device Manager is a Network Video<br>
+Client (NVC) to manage Network Video<br>
+Transmitters (NVT), Network Video<br>
+Storage (NVS) and Network Video<br>
+Analytics (NVA) ...</dd>
+<dd class=down><a class="" title="Download ONVIF Device Manager Windows app" href="/software/windows/app-onvif-device-manager">Download ONVIF Device Manager</a></dd>
+</dl>
+</li>
+<li>
+<div class=selectx_list_number>2</div>
+<dl>
+<dt><a title=ExpSuite href="/software/windows/app-expsuite"><img alt=ExpSuite width=60 height=60 data-srcset="/imageswebp/60_60_expsuiteicon.png.webp" data-original="/imageswebp/60_60_expsuiteicon.png.webp" src="/imageswebp/60_60_expsuiteicon.png.webp" class=loaded srcset="/imageswebp/60_60_expsuiteicon.png.webp" data-was-processed=true></a></dt>
+<dd class=title-dd><a title=ExpSuite href="/software/windows/app-expsuite">ExpSuite</a></dd>
+<dd> ExpSuite is a software framework for<br>
+applications to perform psychoacoustical<br>
+experiments. ExpSuite allows acoustic<br>
+and electric stimulation for normal<br>
+hearing...</dd>
+<dd class=down><a class="" title="Download ExpSuite Windows app" href="/software/windows/app-expsuite">Download ExpSuite</a></dd>
+</dl>
+</li>
+<li>
+<div class=selectx_list_number>3</div>
+<dl>
+<dt><a title=strace href="/software/windows/app-strace"><img alt=strace width=60 height=60 data-srcset="/imageswebp/60_60_straceicon.png.webp" data-original="/imageswebp/60_60_straceicon.png.webp" src="/imageswebp/60_60_straceicon.png.webp" class=loaded srcset="/imageswebp/60_60_straceicon.png.webp" data-was-processed=true></a></dt>
+<dd class=title-dd><a title=strace href="/software/windows/app-strace">strace</a></dd>
+<dd>The strace project has been moved to<br>
+https://strace.io. strace is a<br>
+diagnostic, debugging and instructional<br>
+userspace tracer for Linux. It is used<br>
+to monitor an...</dd>
+<dd class=down><a class="" title="Download strace Windows app" href="/software/windows/app-strace">Download strace</a></dd>
+</dl>
+</li>
+<li>
+<div class=selectx_list_number>4</div>
+<dl>
+<dt><a title="LDAP Admin" href="/software/windows/app-ldap-admin"><img alt="LDAP Admin" width=60 height=60 data-srcset="/imageswebp/60_60_ldapadminicon.png.webp" data-original="/imageswebp/60_60_ldapadminicon.png.webp" src="/imageswebp/60_60_ldapadminicon.png.webp" class=loaded srcset="/imageswebp/60_60_ldapadminicon.png.webp" data-was-processed=true></a></dt>
+<dd class=title-dd><a title="LDAP Admin" href="/software/windows/app-ldap-admin">LDAP Admin</a></dd>
+<dd> Windows LDAP editor, includes support<br>
+for POSIX groups and accounts, SAMBA<br>
+accounts, some Postfix objects and more.<br>
+Features:Browsing and editing of LDAP<br>
+direc...</dd>
+<dd class=down><a class="" title="Download LDAP Admin Windows app" href="/software/windows/app-ldap-admin">Download LDAP Admin</a></dd>
+</dl>
+</li>
+<li>
+<div class=selectx_list_number>5</div>
+<dl>
+<dt><a title="Numerical Python" href="/software/windows/app-numerical-python"><img alt="Numerical Python" width=60 height=60 data-srcset="/imageswebp/60_60_numericalpythonicon.png.webp" data-original="/imageswebp/60_60_numericalpythonicon.png.webp" src="/imageswebp/60_60_numericalpythonicon.png.webp" class=loaded srcset="/imageswebp/60_60_numericalpythonicon.png.webp" data-was-processed=true></a></dt>
+<dd class=title-dd><a title="Numerical Python" href="/software/windows/app-numerical-python">Numerical Python</a></dd>
+<dd> NEWS: NumPy 1.11.2 is the last release<br>
+that will be made on sourceforge. Wheels<br>
+for Windows, Mac, and Linux as well as<br>
+archived source distributions can be fou...</dd>
+<dd class=down><a class="" title="Download Numerical Python Windows app" href="/software/windows/app-numerical-python">Download Numerical Python</a></dd>
+</dl>
+</li>
+<li>
+<div class=selectx_list_number>6</div>
+<dl>
+<dt><a title=Phenoscape href="/software/windows/app-phenoscape"><img alt=Phenoscape width=60 height=60 data-srcset="/imageswebp/60_60_phenoscapeicon.png.webp" data-original="/imageswebp/60_60_phenoscapeicon.png.webp" src="/imageswebp/60_60_phenoscapeicon.png.webp" class=loaded srcset="/imageswebp/60_60_phenoscapeicon.png.webp" data-was-processed=true></a></dt>
+<dd class=title-dd><a title=Phenoscape href="/software/windows/app-phenoscape">Phenoscape</a></dd>
+<dd> The Phenoscape project attempts to<br>
+formalize the description of<br>
+evolutionary characters to make them<br>
+interoperable and computable with the<br>
+body of phenotype an...</dd>
+<dd class=down><a class="" title="Download Phenoscape Windows app" href="/software/windows/app-phenoscape">Download Phenoscape</a></dd>
+</dl>
+</li>
+<li class=selectx_list_more><a href="/software/windows">More »</a></li>
+</ul>
+</div>
+<div class=clear></div>
+</div>
+<div class="box index_tab index_r_tab">
+<div class=title style="display:grid;margin-bottom:-20px;justify-content:center">
+<p>Linux commands</p>
+</div>
+<script>function openprogramnslinuxonlinex(){document.getElementById("xxprogramnslinuxonline").style.display="block";document.getElementById("aprogramnslinuxonlineoffidocs").style.color="#2f1cbb";document.getElementById("xxlinuxalternateforprogramsonline").style.display="none";document.getElementById("alinuxalternateforprogramsonlineoffidocs").style.color="#888";}function openlinuxalternateforprogramsonlinex(){document.getElementById("xxprogramnslinuxonline").style.display="none";document.getElementById("aprogramnslinuxonlineoffidocs").style.color="#888";document.getElementById("xxlinuxalternateforprogramsonline").style.display="block";document.getElementById("alinuxalternateforprogramsonlineoffidocs").style.color="#2f1cbb";}</script>
+<div class=bd>
+<ul id=xxprogramnslinuxonline class=selectx_list>
+<li>
+<div class=selectx_list_number>1</div>
+<dl>
+<dt><a title=aarch64-linux-gnu-gcov-5 href="/os-distributions/programs/aarch64-linux-gnu-gcov-5-online"><img style=padding-top:10px alt=aarch64-linux-gnu-gcov-5 width=60 height=40 data-srcset="/imageswebp/60_40_aarch64linuxgnugcov5.png.webp" data-original="/imageswebp/60_40_aarch64linuxgnugcov5.png.webp" src="/imageswebp/60_40_aarch64linuxgnugcov5.png.webp" class=loaded srcset="/imageswebp/60_40_aarch64linuxgnugcov5.png.webp" data-was-processed=true></a></dt>
+<dd class=title-dd><a title=aarch64-linux-gnu-gcov-5 href="/os-distributions/programs/aarch64-linux-gnu-gcov-5-online">aarch64-linux-gnu-gcov-5</a></dd>
+<dd> gcov - coverage testing tool ...</dd>
+<dd class=down><a class="" title="Run aarch64-linux-gnu-gcov-5 online Linux command line" href="/os-distributions/programs/aarch64-linux-gnu-gcov-5-online">Run aarch64-linux-gnu-gcov-5</a></dd>
+</dl>
+</li>
+<li>
+<div class=selectx_list_number>2</div>
+<dl>
+<dt><a title=aarch64-linux-gnu-gcov href="/os-distributions/programs/aarch64-linux-gnu-gcov-online"><img style=padding-top:10px alt=aarch64-linux-gnu-gcov width=60 height=40 data-srcset="/imageswebp/60_40_aarch64linuxgnugcov.png.webp" data-original="/imageswebp/60_40_aarch64linuxgnugcov.png.webp" src="/imageswebp/60_40_aarch64linuxgnugcov.png.webp" class=loaded srcset="/imageswebp/60_40_aarch64linuxgnugcov.png.webp" data-was-processed=true></a></dt>
+<dd class=title-dd><a title=aarch64-linux-gnu-gcov href="/os-distributions/programs/aarch64-linux-gnu-gcov-online">aarch64-linux-gnu-gcov</a></dd>
+<dd> gcov - coverage testing tool ...</dd>
+<dd class=down><a class="" title="Run aarch64-linux-gnu-gcov online Linux command line" href="/os-distributions/programs/aarch64-linux-gnu-gcov-online">Run aarch64-linux-gnu-gcov</a></dd>
+</dl>
+</li>
+<li>
+<div class=selectx_list_number>3</div>
+<dl>
+<dt><a title=cookfp href="/os-distributions/programs/cookfp-online"><img style=padding-top:10px alt=cookfp width=60 height=40 data-srcset="/imageswebp/60_40_cookfp.png.webp" data-original="/imageswebp/60_40_cookfp.png.webp" src="/imageswebp/60_40_cookfp.png.webp" class=loaded srcset="/imageswebp/60_40_cookfp.png.webp" data-was-processed=true></a></dt>
+<dd class=title-dd><a title=cookfp href="/os-distributions/programs/cookfp-online">cookfp</a></dd>
+<dd> cookfp - calculate file fingerprint ...</dd>
+<dd class=down><a class="" title="Run cookfp online Linux command line" href="/os-distributions/programs/cookfp-online">Run cookfp</a></dd>
+</dl>
+</li>
+<li>
+<div class=selectx_list_number>4</div>
+<dl>
+<dt><a title=cookiecutter href="/os-distributions/programs/cookiecutter-online"><img style=padding-top:10px alt=cookiecutter width=60 height=40 data-srcset="/imageswebp/60_40_cookiecutter.png.webp" data-original="/imageswebp/60_40_cookiecutter.png.webp" src="/imageswebp/60_40_cookiecutter.png.webp" class=loaded srcset="/imageswebp/60_40_cookiecutter.png.webp" data-was-processed=true></a></dt>
+<dd class=title-dd><a title=cookiecutter href="/os-distributions/programs/cookiecutter-online">cookiecutter</a></dd>
+<dd> cookiecutter � create projects from<br>
+project templates ...</dd>
+<dd class=down><a class="" title="Run cookiecutter online Linux command line" href="/os-distributions/programs/cookiecutter-online">Run cookiecutter</a></dd>
+</dl>
+</li>
+<li>
+<div class=selectx_list_number>5</div>
+<dl>
+<dt><a title=gapi2-parser href="/os-distributions/programs/gapi2-parser-online"><img style=padding-top:10px alt=gapi2-parser width=60 height=40 data-srcset="/imageswebp/60_40_gapi2parser.png.webp" data-original="/imageswebp/60_40_gapi2parser.png.webp" src="/imageswebp/60_40_gapi2parser.png.webp" class=loaded srcset="/imageswebp/60_40_gapi2parser.png.webp" data-was-processed=true></a></dt>
+<dd class=title-dd><a title=gapi2-parser href="/os-distributions/programs/gapi2-parser-online">gapi2-parser</a></dd>
+<dd> undocumented - No manpage for this<br>
+program. DESCRIPTION: This program does<br>
+not have a manpage. Run this command<br>
+with the help switch to see what it<br>
+does. For f...</dd>
+<dd class=down><a class="" title="Run gapi2-parser online Linux command line" href="/os-distributions/programs/gapi2-parser-online">Run gapi2-parser</a></dd>
+</dl>
+</li>
+<li>
+<div class=selectx_list_number>6</div>
+<dl>
+<dt><a title=gappletviewer-4.8 href="/os-distributions/programs/gappletviewer-4-8-online"><img style=padding-top:10px alt=gappletviewer-4.8 width=60 height=40 data-srcset="/imageswebp/60_40_gappletviewer48.png.webp" data-original="/imageswebp/60_40_gappletviewer48.png.webp" src="/imageswebp/60_40_gappletviewer48.png.webp" class=loaded srcset="/imageswebp/60_40_gappletviewer48.png.webp" data-was-processed=true></a></dt>
+<dd class=title-dd><a title=gappletviewer-4.8 href="/os-distributions/programs/gappletviewer-4-8-online">gappletviewer-4.8</a></dd>
+<dd> gappletviewer - Load and runs an applet<br>
+...</dd>
+<dd class=down><a class="" title="Run gappletviewer-4.8 online Linux command line" href="/os-distributions/programs/gappletviewer-4-8-online">Run gappletviewer-4.8</a></dd>
+</dl>
+</li>
+<li class=selectx_list_more><a href="/os-distributions/programs">More »</a></li>
+</ul>
+</div>
+<div class=clear></div>
+</div>
+</div> </div><div id=ja-container-prev-c style="float:left;width:100%;max-width:100%;margin-left:0" class="main clearfix" style="margin-top: 0px;">
+<div id=adonworksbot style="display:block;text-align:center;min-width:350px;width:100%;min-height:300px;max-height:300px;margin-top:0;margin-left:0;margin-bottom:0;margin-right:0;overflow:hidden">
+<div id=adonworksbotin class=addin>
+<p style="color:#fff;font-size:15px">Ad</p>
+</div>
+</div>
+</div>
+<br>
+<br>
+<div class="main clearfix" style=float:left>
+</div>
+<br>
+<div id=gallerybottomx style="display:none;float:left">
+<div class="main clearfix">
+</div>
+</div>
+<div id=adxxt style=text-align:center>
+<div id=adxxtin> </div>
+</div>
+<div id=adxxq style=text-align:center>
+<div id=adxxqin></div>
+</div>
+</div>
+<footer" style="background: #0067b8; float: left; width: 100%; max-width: 100%; margin-left: 0" class="site-footer"><div class=wrap> <div class="aboutwpbeginner footer-widget">
+<div class=footer-heading>ABOUT ONWORKS®</div>
+<p>OnWorks is a free online VPS hosting provider that gives cloud services like free workstations, online AntiVirus, free VPN secure proxies, and free personal and business email. Our free VPS can be based on CentOS, Fedora, Ubuntu and Debian. Some of them are customized to be like Windows online or MacOS online. </p>
+<div class=footer-socials>
+<span class=social-label>Follow us:</span>
+<div class=social-links><a href="https://www.facebook.com/OnWorks-114357987913897/" target=_blank rel="noopener nofollow" class=facebook title="Join OnWorks on Facebook"><svg width=24 height=24 aria-hidden=true role=img focusable=false><use xlink:href="#brands-facebook-square"></use></svg></a><a href="https://twitter.com/onworksglobal" target=_blank rel="noopener nofollow" class=twitter title="Follow OnWorks on Twitter"><svg width=24 height=24 aria-hidden=true role=img focusable=false><use xlink:href="#brands-twitter"></use></svg></a><a href="https://instagram.com/onworksglobal" target=_blank rel="noopener nofollow" class=instagram title="Follow OnWorks on Instagram"><svg width=24 height=24 aria-hidden=true role=img focusable=false><use xlink:href="#brands-instagram"></use></svg></a><a href="https://www.youtube.com/channel/UCggT8SMrUfB6NxjVndr6exA?sub_confirmation=1" target=_blank rel="noopener nofollow" class=youtube title="Subscribe to OnWorks on YouTube"><svg width=24 height=24 aria-hidden=true role=img focusable=false><use xlink:href="#brands-youtube"></use></svg></a><a href="https://www.linkedin.com/company/onworks-hosting/" target=_blank rel="noopener nofollow" class=linkedin title="Join OnWorks on LinkedIn"><svg width=24 height=24 aria-hidden=true role=img focusable=false><use xlink:href="#brands-linkedin"></use></svg></a><a href="/cdn-cgi/l/email-protection#533a3d353c133c3d243c2138207d3d3627" target=_blank rel="noopener nofollow" class="manual-optin-trigger email" title="Contact us"><svg width=24 height=24 aria-hidden=true role=img focusable=false><use xlink:href="#regular-envelope"></use></svg></a></div> </div>
+</div>
+<div class="site-links footer-widget">
+<div class=footer-heading>Site Links</div>
+<ul>
+<li><a href="/ourteam.php" title="OnWorks Team">The Team</a></li>
+<li><a href="/aboutus.php" title="OnWorks About Us">About Us</a></li>
+<li><a href="/cdn-cgi/l/email-protection#9ff6f1f9f0dff0f1e8f0edf4ecb1f1faeb" title="OnWorks Contact Us">Contact Us</a></li>
+<li><a href="/cloud-apps-policy" title="OnWorks Online Apps Policy">Cloud Apps Policy</a></li>
+<li><a href="/mobile-apps-policy" title="OnWorks Mobile Apps Policy">Mobile Apps Policy</a></li>
+<li><a href="/terms-of-service" title="OnWorks Terms of Service">Terms of Service</a></li>
+<li><a href="/cookies-policy" title="OnWorks Cookies Policy">Cookies Policy</a></li>
+<li><a href="/blog/" title="OnWorks Blog">Blog</a></li>
+<li><a target=_blank href="https://www.onworks.net/amazon-affiliate.php" title="Amazon explore">Explore Amazon</a></li>
+<li><a target=_blank href="https://www.onworks.net/temu-affiliate.php" title="Temu explore">Explore Temu</a></li>
+<li><a target=_blank href="https://www.onworks.net/walmart-affiliate.php" title="Walmart explore">Walmart</a>&nbsp;|&nbsp;<a target=_blank href="https://www.onworks.net/tripcom-affiliate.php" title="Trip.com explore">Trip.com</a></li>
+</ul>
+</div>
+<div class="our-sites footer-widget">
+<div class=footer-heading>Our Sites</div>
+<ul>
+<li><a href="https://www.offidocs.com/" target=_blank rel=noopener class=notranslate title="OffiDocs - Free Cloud Apps">OffiDocs</a></li>
+<li><a href="https://www.onworks.net/" rel=noopener target=_blank class=notranslate title="OnWorks - Free hosting provider Linux online">OnWorks</a></li>
+<li><a href="https://www.uptoplay.net/" rel=noopener target=_blank class=notranslate title="UptoPlay - Free online games">UptoPlay</a></li>
+<li><a href="https://www.offilive.com/" target=_blank class=notranslate title="Offilive - free email accounts">Offilive</a></li>
+<li><a href="https://www.megadisk.net/" target=_blank class=notranslate title="Megadisk - Securely Store and Share your data">Megadisk</a></li>
+<li><a href="https://www.redcoolmedia.net/" target=_blank class=notranslate rel=noopener title="RedCoolMedia - Free web apps for video and audio online editors">RedcoolMedia</a></li>
+<li><a>&nbsp;</a></li>
+<li><a>&nbsp;</a></li>
+<li><a href="/dmca.php" title="OnWorks DMCA">DMCA</a></li>
+</ul>
+</div>
+</div></footer>
+<div class=footer-copyright><div class=wrap>
+<p>Copyright ©2024 OffiDocs Group OU. All Rights Reserved. OnWorks® is a registered trademark.</p>
+</div></div>
+<svg style=display:none><defs><symbol id=brands-facebook-messenger xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M256.55 8C116.52 8 8 110.34 8 248.57c0 72.3 29.71 134.78 78.07 177.94 8.35 7.51 6.63 11.86 8.05 58.23A19.92 19.92 0 00122 502.31c52.91-23.3 53.59-25.14 62.56-22.7C337.85 521.8 504 423.7 504 248.57 504 110.34 396.59 8 256.55 8zm149.24 185.13l-73 115.57a37.37 37.37 0 01-53.91 9.93l-58.08-43.47a15 15 0 00-18 0l-78.37 59.44c-10.46 7.93-24.16-4.6-17.11-15.67l73-115.57a37.36 37.36 0 0153.91-9.93l58.06 43.46a15 15 0 0018 0l78.41-59.38c10.44-7.98 24.14 4.54 17.09 15.62z"></path></symbol><symbol id=brands-slack xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M94.12 315.1c0 25.9-21.16 47.06-47.06 47.06S0 341 0 315.1c0-25.9 21.16-47.06 47.06-47.06h47.06v47.06zm23.72 0c0-25.9 21.16-47.06 47.06-47.06s47.06 21.16 47.06 47.06v117.84c0 25.9-21.16 47.06-47.06 47.06s-47.06-21.16-47.06-47.06V315.1zm47.06-188.98c-25.9 0-47.06-21.16-47.06-47.06S139 32 164.9 32s47.06 21.16 47.06 47.06v47.06H164.9zm0 23.72c25.9 0 47.06 21.16 47.06 47.06s-21.16 47.06-47.06 47.06H47.06C21.16 243.96 0 222.8 0 196.9s21.16-47.06 47.06-47.06H164.9zm188.98 47.06c0-25.9 21.16-47.06 47.06-47.06 25.9 0 47.06 21.16 47.06 47.06s-21.16 47.06-47.06 47.06h-47.06V196.9zm-23.72 0c0 25.9-21.16 47.06-47.06 47.06-25.9 0-47.06-21.16-47.06-47.06V79.06c0-25.9 21.16-47.06 47.06-47.06 25.9 0 47.06 21.16 47.06 47.06V196.9zM283.1 385.88c25.9 0 47.06 21.16 47.06 47.06 0 25.9-21.16 47.06-47.06 47.06-25.9 0-47.06-21.16-47.06-47.06v-47.06h47.06zm0-23.72c-25.9 0-47.06-21.16-47.06-47.06 0-25.9 21.16-47.06 47.06-47.06h117.84c25.9 0 47.06 21.16 47.06 47.06 0 25.9-21.16 47.06-47.06 47.06H283.1z"></path></symbol><symbol id=brands-whatsapp xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M380.9 97.1C339 55.1 283.2 32 223.9 32c-122.4 0-222 99.6-222 222 0 39.1 10.2 77.3 29.6 111L0 480l117.7-30.9c32.4 17.7 68.9 27 106.1 27h.1c122.3 0 224.1-99.6 224.1-222 0-59.3-25.2-115-67.1-157zm-157 341.6c-33.2 0-65.7-8.9-94-25.7l-6.7-4-69.8 18.3L72 359.2l-4.4-7c-18.5-29.4-28.2-63.3-28.2-98.2 0-101.7 82.8-184.5 184.6-184.5 49.3 0 95.6 19.2 130.4 54.1 34.8 34.9 56.2 81.2 56.1 130.5 0 101.8-84.9 184.6-186.6 184.6zm101.2-138.2c-5.5-2.8-32.8-16.2-37.9-18-5.1-1.9-8.8-2.8-12.5 2.8-3.7 5.6-14.3 18-17.6 21.8-3.2 3.7-6.5 4.2-12 1.4-32.6-16.3-54-29.1-75.5-66-5.7-9.8 5.7-9.1 16.3-30.3 1.8-3.7.9-6.9-.5-9.7-1.4-2.8-12.5-30.1-17.1-41.2-4.5-10.8-9.1-9.3-12.5-9.5-3.2-.2-6.9-.2-10.6-.2-3.7 0-9.7 1.4-14.8 6.9-5.1 5.6-19.4 19-19.4 46.3 0 27.3 19.9 53.7 22.6 57.4 2.8 3.7 39.1 59.7 94.8 83.8 35.2 15.2 49 16.5 66.6 13.9 10.7-1.6 32.8-13.4 37.4-26.4 4.6-13 4.6-24.1 3.2-26.4-1.3-2.5-5-3.9-10.5-6.6z"></path></symbol><symbol id=brands-facebook xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M504 256C504 119 393 8 256 8S8 119 8 256c0 123.78 90.69 226.38 209.25 245V327.69h-63V256h63v-54.64c0-62.15 37-96.48 93.67-96.48 27.14 0 55.52 4.84 55.52 4.84v61h-31.28c-30.8 0-40.41 19.12-40.41 38.73V256h68.78l-11 71.69h-57.78V501C413.31 482.38 504 379.78 504 256z"></path></symbol><symbol id=brands-facebook-square xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 32H48A48 48 0 000 80v352a48 48 0 0048 48h137.25V327.69h-63V256h63v-54.64c0-62.15 37-96.48 93.67-96.48 27.14 0 55.52 4.84 55.52 4.84v61h-31.27c-30.81 0-40.42 19.12-40.42 38.73V256h68.78l-11 71.69h-57.78V480H400a48 48 0 0048-48V80a48 48 0 00-48-48z"></path></symbol><symbol id=brands-twitter xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"></path></symbol><symbol id=brands-linkedin xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M416 32H31.9C14.3 32 0 46.5 0 64.3v383.4C0 465.5 14.3 480 31.9 480H416c17.6 0 32-14.5 32-32.3V64.3c0-17.8-14.4-32.3-32-32.3zM135.4 416H69V202.2h66.5V416zm-33.2-243c-21.3 0-38.5-17.3-38.5-38.5S80.9 96 102.2 96c21.2 0 38.5 17.3 38.5 38.5 0 21.3-17.2 38.5-38.5 38.5zm282.1 243h-66.4V312c0-24.8-.5-56.7-34.5-56.7-34.6 0-39.9 27-39.9 54.9V416h-66.4V202.2h63.7v29.2h.9c8.9-16.8 30.6-34.5 62.9-34.5 67.2 0 79.7 44.3 79.7 101.9V416z"></path></symbol><symbol id=brands-youtube xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path d="M549.655 124.083c-6.281-23.65-24.787-42.276-48.284-48.597C458.781 64 288 64 288 64S117.22 64 74.629 75.486c-23.497 6.322-42.003 24.947-48.284 48.597-11.412 42.867-11.412 132.305-11.412 132.305s0 89.438 11.412 132.305c6.281 23.65 24.787 41.5 48.284 47.821C117.22 448 288 448 288 448s170.78 0 213.371-11.486c23.497-6.321 42.003-24.171 48.284-47.821 11.412-42.867 11.412-132.305 11.412-132.305s0-89.438-11.412-132.305zm-317.51 213.508V175.185l142.739 81.205-142.739 81.201z"></path></symbol><symbol id=brands-instagram xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z"></path></symbol><symbol id=brands-wordpress xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M61.7 169.4l101.5 278C92.2 413 43.3 340.2 43.3 256c0-30.9 6.6-60.1 18.4-86.6zm337.9 75.9c0-26.3-9.4-44.5-17.5-58.7-10.8-17.5-20.9-32.4-20.9-49.9 0-19.6 14.8-37.8 35.7-37.8.9 0 1.8.1 2.8.2-37.9-34.7-88.3-55.9-143.7-55.9-74.3 0-139.7 38.1-177.8 95.9 5 .2 9.7.3 13.7.3 22.2 0 56.7-2.7 56.7-2.7 11.5-.7 12.8 16.2 1.4 17.5 0 0-11.5 1.3-24.3 2l77.5 230.4L249.8 247l-33.1-90.8c-11.5-.7-22.3-2-22.3-2-11.5-.7-10.1-18.2 1.3-17.5 0 0 35.1 2.7 56 2.7 22.2 0 56.7-2.7 56.7-2.7 11.5-.7 12.8 16.2 1.4 17.5 0 0-11.5 1.3-24.3 2l76.9 228.7 21.2-70.9c9-29.4 16-50.5 16-68.7zm-139.9 29.3l-63.8 185.5c19.1 5.6 39.2 8.7 60.1 8.7 24.8 0 48.5-4.3 70.6-12.1-.6-.9-1.1-1.9-1.5-2.9l-65.4-179.2zm183-120.7c.9 6.8 1.4 14 1.4 21.9 0 21.6-4 45.8-16.2 76.2l-65 187.9C426.2 403 468.7 334.5 468.7 256c0-37-9.4-71.8-26-102.1zM504 256c0 136.8-111.3 248-248 248C119.2 504 8 392.7 8 256 8 119.2 119.2 8 256 8c136.7 0 248 111.2 248 248zm-11.4 0c0-130.5-106.2-236.6-236.6-236.6C125.5 19.4 19.4 125.5 19.4 256S125.6 492.6 256 492.6c130.5 0 236.6-106.1 236.6-236.6z"></path></symbol><symbol id=regular-envelope xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M464 64H48C21.49 64 0 85.49 0 112v288c0 26.51 21.49 48 48 48h416c26.51 0 48-21.49 48-48V112c0-26.51-21.49-48-48-48zm0 48v40.805c-22.422 18.259-58.168 46.651-134.587 106.49-16.841 13.247-50.201 45.072-73.413 44.701-23.208.375-56.579-31.459-73.413-44.701C106.18 199.465 70.425 171.067 48 152.805V112h416zM48 400V214.398c22.914 18.251 55.409 43.862 104.938 82.646 21.857 17.205 60.134 55.186 103.062 54.955 42.717.231 80.509-37.199 103.053-54.947 49.528-38.783 82.032-64.401 104.947-82.653V400H48z"></path></symbol><symbol id=light-shopping-cart xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path d="M551.991 64H129.28l-8.329-44.423C118.822 8.226 108.911 0 97.362 0H12C5.373 0 0 5.373 0 12v8c0 6.627 5.373 12 12 12h78.72l69.927 372.946C150.305 416.314 144 431.42 144 448c0 35.346 28.654 64 64 64s64-28.654 64-64a63.681 63.681 0 00-8.583-32h145.167a63.681 63.681 0 00-8.583 32c0 35.346 28.654 64 64 64 35.346 0 64-28.654 64-64 0-17.993-7.435-34.24-19.388-45.868C506.022 391.891 496.76 384 485.328 384H189.28l-12-64h331.381c11.368 0 21.177-7.976 23.496-19.105l43.331-208C578.592 77.991 567.215 64 551.991 64zM240 448c0 17.645-14.355 32-32 32s-32-14.355-32-32 14.355-32 32-32 32 14.355 32 32zm224 32c-17.645 0-32-14.355-32-32s14.355-32 32-32 32 14.355 32 32-14.355 32-32 32zm38.156-192H171.28l-36-192h406.876l-40 192z"></path></symbol></defs></svg>
+</div>
+<div class="main clearfix">
+<div class=ja-copyright>
+<ul class=menu>
+<li class=item-587><a href="/cookies-policy">Cookies Policy</a></li><li class=item-509><a href="/aboutus.html">About Us</a></li></ul>
+<ul class=menu>
+<li class=item-587><a href="/dmca.html">DMCA</a></li><li class=item-505><a href="/cloud-apps-policy">Cloud Apps Policy</a></li><li class=item-532><a href="/mobile-apps-policy">Mobile Apps Policy</a></li><li class=item-642><a rel=noreferrer href="https://www.youtube.com/channel/UCPrqJ_Y6oV6ofMoeK4xlm-A" target=_blank>YouTube</a></li></ul>
+<ul class=menu>
+<li class=item-613><a href="/terms-of-service">Terms of Service</a></li><li class=item-506><a href="/cdn-cgi/l/email-protection#1a75746d756871695a757c7c7376736c7f34797577">Support &amp; Contact</a></li></ul>
+</div>
+<div id=ja-poweredby class="t3-logo t3-logo-light">
+<a href="#" title="Powered By T3 Framework" target=_blank rel=nofollow>Powered By T3 Framework</a>
+</div> </div>
+</div>
+</div>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script></script>
+<script async src="https://stpd.cloud/assets/stpdwrapper.js" crossorigin=anonymous></script>
+<ins class=stpdwrapper style=display:inline-block data-tag-id=5732></ins>
+<script>(stpdwrapper=window.stpdwrapper||[]).push({});</script>
+<script type="application/ld+json">{"@context":"http://schema.org","@type":"WebSite","name":"OnWorks","url":"https://www.onworks.net/","potentialAction":{"@type":"SearchAction","target":"https://www.onworks.net/component/search/?searchword={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<script type="application/ld+json">{"@context":"http://schema.org","@type":"Corporation","name":"OnWorks","url":"https://www.onworks.net/","logo":"https://www.onworks.net/media/assets/onworks512.png","address":{"@type":"PostalAddress","addressLocality":"Tallin, Estonia","postalCode":"10111","streetAddress":"Kesklinna linnaosa, Viru Valjak, 2"}}</script>
+<script type="application/ld+json">{"@context": "http://schema.org","@type": "BreadcrumbList","itemListElement": [{"@type": "ListItem","position":1,"name": "Home","item": "https://www.onworks.net/"},{"@type": "ListItem","position":2,"name": "Os Distributions","item": "https://www.onworks.net/os-distributions/"},{"@type": "ListItem","position":3,"name": "Special Os","item": "https://www.onworks.net/os-distributions/special-os/"},{"@type": "ListItem","position":4,"name": "Windows 10 Online Theme","item": "https://www.onworks.net/os-distributions/special-os/windows-10-online-theme/"}]}</script>
+<script type="application/ld+json">{"@context": "http://schema.org/", "@type": "Product", "name":"Windows online emulator - Online in the Cloud", "image": "https://www.onworks.net/imagescropped/windows10icon128.jpg_3.webp", "description": "Run online Windows 10 online a GTK theme created by b00merang with a icon theme pack which can give an Ubuntu installation a complete makeover like Windows 10", "sku": "e6b267aa439181f8d00853ce3954a36e", "aggregateRating": { "@type": "AggregateRating", "ratingValue": "4.43", "reviewCount": "1907" }, "review": { "@type": "Review", "reviewRating": { "@type": "Rating", "ratingValue": "4", "bestRating": "5" }, "author": { "@type": "Person", "name": "Anonymous" }}, "brand": { "@type": "Brand", "name": "OnWorks" }, "mpn": "8f1dc9c7d64bc6ac56ad482a9c81e1d0", "offers": { "@type": "Offer", "availability": "https://schema.org/OnlineOnly", "url": "http://www.onworks.net/os-distributions/special-os/windows-10-online-theme", "priceValidUntil": "2025-12-31", "price": 0, "priceCurrency": "USD" }}</script>
+</body>
+<script>function getCookiex(cname){var name=cname+"=";var decodedCookie=decodeURIComponent(document.cookie);var ca=decodedCookie.split(";");for(var i=0;i<ca.length;i++){var c=ca[i];while(c.charAt(0)==" "){c=c.substring(1);}if(c.indexOf(name)==0){return c.substring(name.length,c.length);}}return"";}setTimeout(function(){var pageremoveads=getCookiex("pageremoveads");var pathname=window.location.pathname;if((pageremoveads.indexOf("1")!==-1)&&(pathname.length<2)){window.location.href="https://onworks.net/removeads.php?ral=1";}},1);</script>
+<noscript class=psa_add_styles><link rel=stylesheet href="/templates/system/css/A.general.css.pagespeed.cf.MtMUQyOcDY.css" type="text/css" media=""/><link rel=stylesheet href="/plugins/system/jat3/jat3/base-themes/default/css/A.addons.css+layout.css,,qv==2+template.css+css3.css,Mcc.TduNE81PuB.css.pagespeed.cf.QHcLOBA8gw.css" type="text/css" media=""/><link rel=stylesheet href="/templates/ja_elastica/css/A.layout.css.pagespeed.cf.97Bl_gQT9D.css" type="text/css" media=""/><link rel=stylesheet href="/templates/ja_elastica/css/A.template-3-new01.css,,qv==021+modules.css,Mcc._cB4IQww02.css.pagespeed.cf.FRMpYtxc65.css" type="text/css" media=all /><link rel=stylesheet href="/templates/ja_elastica/css/A.layout-mobile-2b.css.pagespeed.cf.W8B6bCngcR.css" type="text/css" media="only screen and (max-width:399px)"/><link rel=stylesheet href="/templates/ja_elastica/css/A.layout-tablet-2b.css.pagespeed.cf.8STxswNSgw.css" type="text/css" media="only screen and (min-width:400px) and (max-width: 799px)"/><link rel=stylesheet href="/templates/ja_elastica/css/A.layout-normal-2b.css.pagespeed.cf.GVyzB23AEn.css" type="text/css" media="only screen and (min-width:800px)"/><link rel=stylesheet href="/templates/ja_elastica/css/A.template-3-new01.css,,qv==021+css3.css,Mcc.WISPq-NTs6.css.pagespeed.cf.z-hyuHuYdL.css" type="text/css" media=""/><link rel=stylesheet href="/templates/ja_elastica/css/menu/A.mega.css.pagespeed.cf.lAK6Sgz8bE.css" type="text/css" media=""/><style></style><style>.word .inputbox{height:30px;font-size:16px;width:70%;margin-bottom:0}.word .button{padding:7px 10px;margin:5px 0;font-size:16px}.search .word label{vertical-align:middle}</style><style>@media screen and (max-width:1024px){.toggle-menu{font-size:1.25em;padding-left:20px}.menux{background-color:#fff;color:#262626;font-size:16px!important;position:relative;left:0;width:100%;padding:15px 0 5px 0;z-index:10;max-height:5px}}@media screen and (min-width:1025px){.toggle-menu{display:none}.menux{background-color:#fff;color:#262626;font-size:16px!important;position:relative;left:0;width:100%;padding:10px 0 6px 0;z-index:10;font-size:1.3em}}.items-leading{padding:0!important}#ja-header .main-inner1{background:#fff;font-size:13px!important}.main .main-inner1{margin-left:0!important;margin-right:0!important}#ja-search{border-bottom:0!important}#ja-top{border-left:0!important}.menux input[type="checkbox"]{opacity:0;position:absolute;left:-9999px}.menux a,.menux .toggle-menux{color:#262626;text-transform:none;text-decoration:none;-webkit-transition:.3s all ease;transition:.3s all ease}.menux a:hover,.menux .toggle-menux:hover{color:#e3dfe6}.menux .toggle-menux{display:none;padding-left:10px}.menux .toggle-menux:hover{cursor:pointer}@media screen and (max-width:1024px){.menux .toggle-menux{display:block}.menux .nav{background:#eee;position:relative;height:100%;width:300px;margin-top:22px;left:0;-webkit-transition:.3s all ease;transition:.3s all ease;-webkit-transform:translateX(-340px);transform:translateX(-340px);overflow-y:auto;font-size:18px}.menux #toggle-responsive:checked ~ .nav {-webkit-transform:translateX(0);transform:translateX(0)}}.menux label.toggle{color:transparent;position:relative}.menux label.toggle:hover{cursor:pointer}.menux label.toggle:hover:before{width:0;height:0;border-style:solid;border-color:transparent transparent transparent #e3dfe6;border-width:5.33333px}.menux label.toggle:before{content:"";font-size:16px;-webkit-transition:.3s all ease;transition:.3s all ease;position:absolute;top:50%;left:5px;-webkit-transform:translateY(0%) rotate(90deg);transform:translateY(0%) rotate(90deg);width:0;height:0;border-style:solid;border-color:transparent transparent transparent #262626;border-width:5.33333px}@media screen and (max-width:1024px){.menux label.toggle:before{left:15px}}.menux ul{position:relative}.menux ul,.menux ul li{list-style:none;padding:0;margin:0}.menux ul>li{position:relative;padding:10px 10px 10px 40px}@media screen and (min-width:1025px){.menux ul>li{display:inline;padding:0 10px}}.menux ul>li>ul{position:absolute;top: calc(100% + 10px);left:0;background:#eee;display:none}@media screen and (max-width:1024px){.menux ul>li>ul{position:relative;left:-10px;background:rgba(0,0,0,.1);width: calc(100% + 20px)}}@media screen and (min-width:1025px){.menux ul>li>ul>li{display:block;white-space:nowrap;height:30px;padding:6px 30px 6px 15px}.menux ul>li>ul>li label.toggle:before{-webkit-transform:translateY(-50%);transform:translateY(-50%)}.menux ul>li>ul ul{left:100%;top:0}}.menux ul>li input[type="checkbox"]:checked+ul{display:block}</style><style>@media screen and (min-width:800px){.cols-4 .item,.cols-5 .item{width:23%!important;margin:0 1%;float:left}}</style><style>.item-page{margin-bottom:1em;text-align:left}.blog-featured .contentheading{padding:10px;background:#0067b8;color:#fff;text-align:center!important}h2.contentheading,.contentheading{padding:10px;background:#0067b8;color:#fff;text-align:center!important}p.readmorenone a{background:#0067b8;color:#fff;padding:5px 20px 5px 20px;text-align:center!important}p.readmorenone{text-align:center!important}.items-more{border-bottom:0!important;text-align:left!important}.ja-content p,.ja-content pre,.ja-content blockquote,.ja-content h1,.ja-content h2,.ja-content h3,.ja-content h4,.ja-content h5,.ja-content h6,.ja-content ol,.ja-content ul,.ja-content dl{font-size:16px;margin:1em 0;text-align:left}.contentheading a{color:#fff!important}.com_content #ja-content-main{text-align:center}@media (min-width:2000px){#ja-header .main{width:85%!important;margin-left:15%}#ja-container{float:left;width:50%;margin-left:13%;background:#88bad3}.ja-content-main .box{background:#fff;width:auto;box-shadow: 0 2px 3px 0 rgb(0 0 0 / 15%);margin-bottom:20px;display:inline-block;max-width:1000px;float:left}.right{width:30%;max-width:330px;float:left;background:#88bad3}}@media (min-width:1751px) and (max-width:1999px){#ja-header .main{width:90%!important;margin-left:10%}#ja-container{float:left;width:55%;margin-left:10%;background:#88bad3}.ja-content-main .box{background:#fff;width:auto;box-shadow: 0 2px 3px 0 rgb(0 0 0 / 15%);margin-bottom:20px;display:inline-block;max-width:1000px;float:left}.right{width:30%;max-width:330px;float:left;background:#88bad3}}@media (min-width:1600px) and (max-width:1750px){#ja-header .main{width:95%!important;margin-left:5%}#ja-container{float:left;width:1000px;margin-left:7%;background:#88bad3}.ja-content-main .box{background:#fff;width:auto;box-shadow: 0 2px 3px 0 rgb(0 0 0 / 15%);margin-bottom:20px;display:inline-block;max-width:1000px;float:left}.right{width:330px;float:left;background:#88bad3}}@media (min-width:1500px) and (max-width:1599px){#ja-header .main{width:100%!important;margin-left:0}#ja-container{float:left;width:calc(100% - 600px);max-width:700px;margin-left:250px;background:#88bad3}.ja-content-main .box{background:#fff;width:auto;box-shadow: 0 2px 3px 0 rgb(0 0 0 / 15%);margin-bottom:20px;display:inline-block;max-width:1000px;float:left}.right{width:330px;float:left;background:#88bad3}}@media (max-width:499px){#ja-container{position:relative;z-index:5;top:0}}@media (min-width:1420px) and (max-width:1499px){#ja-header .main{width:100%!important;margin-left:0}#ja-container{float:left;width:calc(100% - 600px);max-width:700px;margin-left:200px;background:#88bad3}.ja-content-main .box{background:#fff;width:auto;box-shadow: 0 2px 3px 0 rgb(0 0 0 / 15%);margin-bottom:20px;display:inline-block;max-width:1000px;float:left}.right{width:330px;float:left;background:#88bad3}}@media (min-width:1300px) and (max-width:1419px){#ja-header .main{width:80%!important;margin-left:0}#ja-container{float:left;width:700px;margin-left:150px;background:#88bad3}.ja-content-main .box{background:#fff;width:auto;box-shadow: 0 2px 3px 0 rgb(0 0 0 / 15%);margin-bottom:20px;display:inline-block;max-width:1000px;float:left}.right{width:330px;float:left;background:#88bad3}}@media (min-width:1200px) and (max-width:1299px){#ja-header .main{width:70%!important;margin-left:0}#ja-container{float:left;width:700px;margin-left:100px;background:#88bad3}.ja-content-main .box{background:#fff;width:auto;box-shadow: 0 2px 3px 0 rgb(0 0 0 / 15%);margin-bottom:20px;display:inline-block;max-width:1000px;float:left}.right{width:330px;float:left;background:#88bad3}}@media (max-width:1199px){#ja-header .main{width:90%!important;margin-left:2%}#ja-container{float:left;width:100%;background:#88bad3}.ja-content-main .box{background:#fff;width:100%;margin:auto;box-shadow: 0 2px 3px 0 rgb(0 0 0 / 15%);margin-bottom:20px;display:inline-block;max-width:950px}.right{width:330px;background:#88bad3;float:left;margin-left: calc((100% - 330px)/2)}}@media (min-width:1200px){.top-list li.w33{width:33.33%!important}}@media (min-width:1601px){.cols-2{width:300px!important;float:left}}@media (min-width:800px) and (max-width:1600px){.cols-2{float:left;width:30%!important}}@media (max-width:799px){.cols-2{}}@media (min-width:400px) and (max-width:1199px){.top-list li.w33{width:49%!important}}@media (min-width:300px){.top-list{margin:0 auto;overflow:hidden}.sublist{padding:15px}.top-list li{width:25%;float:left;position:relative;list-style:none}.top-list-s li a{display:block;color:#333;text-align:left;background:#fbfbfb;margin:0 5px 0 5px;box-shadow: 0 1px 1px rgb(0 0 0 / 25%)}.authoxx{color:#333}.dyxx{}.top-list dl{display:block;position:relative;height:85px;padding-top:10px;overflow:hidden;margin:1px 0}.top-list dl dt{float:left;width:95px;height:75px;text-align:center}.top-list dl dt img{width:75px;vertical-align:middle;border:0;color:#ccc}.site-footer .wrap{padding-left:0}.item .contentpaneopen{padding:0}.right .box{background:#fff;width:auto;box-shadow: 0 2px 3px 0 rgb(0 0 0 / 15%);margin-bottom:20px}.right .box .title{background:#fbfbfb;border-bottom:1px solid #e8e8e8;height:55px;line-height:55px;color:#666;font-size:18px;padding:0 10px;font-weight:400;position:relative}.ja-content-main .box .title{background:#fbfbfb;border-bottom:1px solid #e8e8e8;height:55px;line-height:55px;color:#666;font-size:18px;padding:0 10px;font-weight:400;position:relative}.ja-content-main .box .title{background:#fbfbfb;border-bottom:1px solid #e8e8e8;height:55px;line-height:55px;color:#666;font-size:18px;padding:0 10px;font-weight:400;position:relative}.right .box ul{display:block;list-style-type:disc;margin-block-start:1em;margin-block-end:2px;margin-inline-start:0;margin-inline-end:0;padding-inline-start:10px;padding-top:10px}.right .box ul li{list-style:none}.right .box .title a{color:#666;text-decoration:none}.right .index_tab .hdr{position:absolute;bottom:-1px;right:15px}.right .index_tab .hdr li.on{border-bottom:none}.right .index_tab .hdr li{float:left;position:relative}.index_tab .hdr li.on a{border-bottom:2px solid #24cd77;color:#24cd77}.index_tab .hdr li a{display:block;overflow:hidden;color:#888;padding:0 10px;height:40px;line-height:40px;text-align:center;font-size:16px;cursor:pointer;font-weight:200}.selectx_list{padding:15px}.right .selectx_list li{width:auto;border-bottom:1px solid #f2f2f2;clear:both;height:65px;padding:5px 5px 10px}.selectx_list li:nth-child(1) .selectx_list_number {background:url(https://static.apkpure.com/www/static/imgs/selectx_list_number.png) top center;color:red;margin-top: 25px
+height: 24px;background:#ccc}.selectx_list_number{float:left;width:20px;height:20px;background:#e7e7e7;margin-top:27px;text-align:center;line-height:20px;font-size:14px;font-weight:600}.selectx_list dl{display:block;position:relative;height:65px;overflow:hidden;width:270px;float:right}.selectx_list dl dt{float:left;width:85px;height:75px;text-align:center}.selectx_list dl dd{color:#666;overflow:hidden;line-height:22px;font-size:13px;text-overflow:ellipsis;white-space:nowrap}.w33 dl dd{color:#666;overflow:hidden;line-height:22px;font-size:13px;text-overflow:ellipsis;white-space:nowrap}.selectx_list dl .title-dd a{font-size:14px;font-weight:600}.title-dd{color:#0b6a0e;font-weight:bold}.selectx_list dl dd a{color:#666;font-size:13px;display:block;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.selectx_list dl .down{position:absolute;bottom:-30px;left:85px;z-index:1}.right .selectx_list_more{padding:17px 0 2px 0;text-align:center}.selectx_list_more a{color:#666}.index-category-b{padding:12px 18px}.index-category{padding:10px;overflow:hidden}.index-category-b li{padding:12px 0}.index-category-b li{padding:12px 0}.index-category li{width:50%;float:left;height:30px;padding:8px 0;position:relative;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.index-category li a{color:#666;font-size:12px}.index-category li a i{display:inline-block;vertical-align:middle;width:30px;height:30px;border-radius:50%;margin-right:5px;background:url(https://www.uptoplay.net/images/iconitos.png?v=1) no-repeat}.index-category li{word-break:break-all;display:inline-block}.iconxreference .adventure{background-position:0 -30px}.iconxreference .tools{background-position:0 -1380px}.iconxreference .entertainment{background-position:0 -810px}.iconxreference .action{background-position:0 0}.iconxreference .communication{background-position:0 -720px}.iconxreference .social{background-position:0 -1320px}.iconxreference .music-audio{background-position:0 -1110px}.right .iconxreference .role-playing{background-position:0 -330px}.right .iconxreference .photography{background-position:0 -1230px}.right .iconxreference .media-video{background-position:0 -1440px}.iconxreference .arcade{background-position:0 -60px}.iconxreference .casual{background-position:0 -180px}.iconxreference .personalization{background-position:0 -1200px}conxreference .strategy{background-position:0 -420px}.iconxreference .productivity{background-position:0 -1260px}.iconxreference .game_sports{background-position:0 -390px}.iconxreference .simulation{background-position:0 -360px}.iconxreference .education{background-position:0 -780px}.iconxreference .racing{background-position:0 -300px}.iconxreference .lifestyle{background-position:0 -1020px}.iconxreference .book-reference{background-position:0 -630px}.iconxreference .music{background-position:0 -240px}.iconxreference .puzzle{background-position:0 -270px}.iconxreference .puzzle{background-position:0 -270px}.iconxreference .shopping{background-position:0 -1290px}.iconxreference .card{background-position:0 -120px}.iconxreference .business{background-position:0 -660px}.iconxreference .casino{background-position:0 -150px}.iconxreference .health-fitness{background-position:0 -930px}.iconxreference .sports{background-position:0 -1350px}.iconxreference .travel-local{background-position:0 -1410px}}</style><style>p.readmorenone a{background:#fff!important;color:#fff;padding:0!important;text-align:center!important}p.only2lines{text-align:center!important}@media screen and (max-width:1024px){.menux .nav{height:unset!important}}</style><style>.ja-copyright{display:none}</style><style>.site-footer a{color:#fff!important}.footer-copyright p{color:#fff!important}.site-footer p{color:#fff!important}</style><style>.addin{text-align:center;min-height;300px;max-height:300px;padding-top:120px;padding-bottom:120px;width:100%;min-width:100%;background:#000}</style><style>.contentheading,.componentheading,h1,h2,h3,h4,h5{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif!important}</style><style>a.gflag{vertical-align:middle;font-size:24px;padding:1px 0;background-repeat:no-repeat;background-image:url(https://www.onworks.net/images/x24.png.pagespeed.ic.xN6zaIaFtk.png)}a.gflag img{border:0}a.gflag:hover{background-image:url(https://www.onworks.net/images/x24a.png.pagespeed.ic.pY4mc_JiFl.png)}</style><style>.google-auto-placed{display:none!important;height:0!important}.searchx{box-sizing:border-box}#searchFormx input[type="text"]{padding:10px;font-size:17px;border:1px solid gray;float:left;width:60%;margin-left:19%;background:#f1f1f1;height:40px}#searchFormx button{float:left;height:40px;width:50px;min-width:50px;padding:5px;color:#fff;font-size:17px;border:1px solid gray;border-left:none;cursor:pointer;box-sizing:border-box}#searchFormx button:hover{background:#24cd77}#ja-search .search-btn{display:none}</style><style>h1 a{color:#fff}h1 a:hover{color:inherit!important;text-decoration:none!important}</style><style>*{box-sizing:inherit}.pn-ProductNav_Wrapper{position:relative;padding:0 11px;box-sizing:border-box}.pn-ProductNav{overflow-x:auto;overflow-y:hidden;-webkit-overflow-scrolling:touch;white-space:nowrap;position:relative;font-size:0}.js .pn-ProductNav{-ms-overflow-style:-ms-autohiding-scrollbar}.js .pn-ProductNav::-webkit-scrollbar{display:none}.pn-ProductNav_Contents{float:left;-webkit-transition:-webkit-transform .2s ease-in-out;transition:-webkit-transform .2s ease-in-out;transition:transform .2s ease-in-out;transition:transform .2s ease-in-out , -webkit-transform .2s ease-in-out;position:relative}.pn-ProductNav_Contents-no-transition{-webkit-transition:none;transition:none}.pn-ProductNav_Link{text-decoration:none;color:#888;font-size:1.2rem;font-family:-apple-system,sans-serif;display:-webkit-inline-box;display:-ms-inline-flexbox;display:inline-flex;-webkit-box-align:center;-ms-flex-align:center;align-items:center;min-height:44px;border:1px solid transparent;padding:0 11px}.pn-ProductNav_Link+.pn-ProductNav_Link{border-left-color:#eee}.pn-ProductNav_Link[aria-selected="true"]{color:#111}.pn-Advancer{-webkit-appearance:none;-moz-appearance:none;appearance:none;background:transparent;padding:0;border:0;position:absolute;top:0;bottom:0;opacity:0;-webkit-transition:opacity .3s;transition:opacity .3s}.pn-Advancer:focus{outline:0}.pn-Advancer:hover{cursor:pointer}.pn-Advancer_Left{left:0}[data-overflowing="both"] ~ .pn-Advancer_Left, [data-overflowing="left"] ~ .pn-Advancer_Left {opacity:1}.pn-Advancer_Right{right:0}[data-overflowing="both"] ~ .pn-Advancer_Right, [data-overflowing="right"] ~ .pn-Advancer_Right {opacity:1}.pn-Advancer_Icon{width:20px;height:44px;fill:#bbb}.pn-ProductNav_Indicator{position:absolute;bottom:0;left:0;height:4px;width:100px;background-color:transparent;-webkit-transform-origin:0 0;transform-origin:0 0;-webkit-transition:background-color .2s ease-in-out , -webkit-transform .2s ease-in-out;transition:background-color .2s ease-in-out , -webkit-transform .2s ease-in-out;transition:transform .2s ease-in-out , background-color .2s ease-in-out;transition:transform .2s ease-in-out , background-color .2s ease-in-out , -webkit-transform .2s ease-in-out}</style></noscript><script data-pagespeed-no-defer>(function(){function b(){var a=window,c=e;if(a.addEventListener)a.addEventListener("load",c,!1);else if(a.attachEvent)a.attachEvent("onload",c);else{var d=a.onload;a.onload=function(){c.call(this);d&&d.call(this)}}};var f=!1;function e(){if(!f){f=!0;for(var a=document.getElementsByClassName("psa_add_styles"),c=0,d;d=a[c];++c)if("NOSCRIPT"==d.nodeName){var k=document.createElement("div");k.innerHTML=d.textContent;document.body.appendChild(k)}}}function g(){var a=window.requestAnimationFrame||window.webkitRequestAnimationFrame||window.mozRequestAnimationFrame||window.oRequestAnimationFrame||window.msRequestAnimationFrame||null;a?a(function(){window.setTimeout(e,0)}):b()}
+var h=["pagespeed","CriticalCssLoader","Run"],l=this;h[0]in l||!l.execScript||l.execScript("var "+h[0]);for(var m;h.length&&(m=h.shift());)h.length||void 0===g?l[m]?l=l[m]:l=l[m]={}:l[m]=g;})();
+pagespeed.CriticalCssLoader.Run();</script></html>
